@@ -2,7 +2,7 @@ PORT ?= 5173
 PREVIEW_PORT ?= 4173
 HOST ?= 0.0.0.0
 
-.PHONY: help setup wasm build compile run dev preview kill restart clean fmt check validate-problems
+.PHONY: help setup wasm build compile run dev preview kill restart clean fmt check validate-problems import-book-problems
 
 help:
 	@printf '%s\n' \
@@ -15,6 +15,7 @@ help:
 		'  make preview            Kill any preview server, then serve dist/' \
 		'  make restart            Alias for run' \
 		'  make kill               Stop servers using PORT and PREVIEW_PORT' \
+		'  make import-book-problems Import validated OCR book problems and answers' \
 		'  make validate-problems  Check practice problem move gravity' \
 		'  make fmt                Format Rust code' \
 		'  make check              Run formatting, problem validation, and production build' \
@@ -63,6 +64,9 @@ kill:
 
 validate-problems:
 	node scripts/validate-problems.mjs
+
+import-book-problems:
+	node scripts/import-book-problems.mjs
 
 fmt:
 	cargo fmt

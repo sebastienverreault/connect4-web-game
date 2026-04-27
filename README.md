@@ -144,11 +144,13 @@ The validator checks that each move obeys Connect 4 gravity, so a token like `C2
 If the local `book/` folder contains the recognized Chapter 1-2 PDF, import validated Chapter 2 practice problems with:
 
 ```sh
-node scripts/import-book-problems.mjs
+make import-book-problems
 make validate-problems
 ```
 
-The importer reads OCR text from `book/Connect4-Ch01-02_recognized_1.pdf`, normalizes common OCR substitutions, and imports only records whose moves pass gravity validation. Ambiguous OCR records are skipped and reported in the command output.
+The importer reads OCR text from `book/Connect4-Ch01-02_recognized_1.pdf`, normalizes common OCR substitutions, and imports only records whose moves pass gravity validation. It also reads answer text from `book/Connect4-Glossary_recognized_1.pdf` when available.
+
+Ambiguous OCR records are skipped and reported in [docs/book-ocr-review.md](docs/book-ocr-review.md) with raw OCR moves and validation errors for manual review.
 
 ## Project Layout
 
