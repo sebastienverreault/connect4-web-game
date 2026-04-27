@@ -143,7 +143,7 @@ impl Connect4 {
         let mut stopped_at_solution = false;
         for token in moves.split_whitespace() {
             let cleaned = token.trim_matches(|ch: char| ch == ',' || ch == ';');
-            if cleaned == "_" {
+            if cleaned.chars().all(|ch| ch == '_') {
                 stopped_at_solution = true;
                 break;
             }

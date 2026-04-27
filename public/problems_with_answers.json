@@ -1,0 +1,2102 @@
+[
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 1",
+    "description": "Red to play (Hint: Black threatens quick win)",
+    "moves": "D1 c1 F1 b1 E1 g1 F2 d2 F3 f4 D3 d4 C2 c3 (15) __",
+    "answer": "Red wins with 15 C4; if Black played there, he or she would have an adjacent threat pair (see Diagram 353)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 2",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 B2 b3 E1 f6 B4 (20) __",
+    "answer": "Black wins with 20 b5, dominating the upper board (see Diagram 310)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 3",
+    "description": "Black to play (Hint: Play where Red wants to play)",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 E5 d6 B4 (16) __",
+    "answer": "Black draws with 16 b5, or else Red gets an adjacent threat pair (see Diagram 213)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 4",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 c1 E2 e3 C2 c3 C4 d2 (11) __",
+    "answer": "Red draws with 11 D3 (see Diagram 157)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 5",
+    "description": "Black to play,and mate in three",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 g1 F1 f2 D3 (12) __",
+    "answer": "Black begins with 12 e2."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 6",
+    "description": "Black toplay,and mate infour",
+    "moves": "D1 e1 B1 b2 B3 d2 B4 c1 D3",
+    "answer": "Black begins with 10 c2."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 7",
+    "description": "Black to play",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 C1 d4 F4 c2 D5 (14) __",
+    "answer": "Black wins with 14 c3, making counterthreats on both sides of the board (see Diagram 376)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 8",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 B2 b3 E1 b4 B5 b6 E2 (22) __",
+    "answer": "Black wins with 22 e3; Black cannot let Red play there (see Diagram 308)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 9",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 c1 D4 c2 G1 e1 D5 d6 (11) __",
+    "answer": "Red wins with 11 E2, before Black locks up the second row (see Diagram 230)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 10",
+    "description": "Black to play,and mateinfour",
+    "moves": "C1 c2 C3 f1 B1 d1 F2 c4 C5 a1 G1 a2 A3 (14) __",
+    "answer": "Black begins with 14d2."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 11",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 g1 G2 g3 C5 (12) __",
+    "answer": "Black wins with 12 d4, a key cell (see Diagram 153)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 12",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 f3 D2 e2 D3 d4 E3 f4 E4 f5 F6 e5 D5 d6 B2 b3 (23) __",
+    "answer": "Red draws with 23 B4, a strategic cell for either player (see Diagram 351)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 13",
+    "description": "Black to play,and mate infour",
+    "moves": "D1 c1 C2 c3 C4 d2 C5 e1 B1 a1 E2 (12) __",
+    "answer": "Blackbeginswith12d3."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 14",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 C2 e4 E5 d2 D3 d4 A1 d5 (17) __",
+    "answer": "Red wins with 17 G2, or else Black plays there (or f3) and wins quickly (related to Diagram 296)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 15",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 c2 C3 c4 D2 d3 F1 e1 D4 f2 B1 b2 D5 c5 (17) __",
+    "answer": "Red wins with 17 F3, a strategic center cell (see Diagram 368)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 16",
+    "description": "Black to play (Hint: Where does Red want to play?)",
+    "moves": "D1 d2 D3 d4 E1 c1 C2 (8) __",
+    "answer": "Black wins with 8 c3, preventing a left-side Red J shape (see Diagram 122)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 17",
+    "description": "Red to play",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 G1 e1 G2 a2 G3 g4 F2 e2 F3 f4 (19) __",
+    "answer": "Red wins with 19 E3, stopping a quick Black win (see Diagram 170)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 18",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 g1 D2 (14) __",
+    "answer": "Black wins with 14 e3, with 16 d3 to follow (see Diagram 183)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 19",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 b1 B2 d4 (11) __",
+    "answer": "Red wins with 11 D5, the key fifth-row cell (related to Diagram 229)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 20",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 E5 d6 B4 b5 G1 g2 G3 b6 F1 (22) __",
+    "answer": "Black wins with 22 g4, preventing the Red F3 threat (see Diagram 217)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 21",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 f1 F2 c2 D2 c3 C4 g2 D3 d4 F3 g3 F4 f5 A1 d5 C5 f6 (21) __",
+    "answer": "Red wins with 21 D6, forming a (partial) triple threat at A3-B4-B5; combined with Red's right-side triple threat, Black's e5 counterthreat is overwhelmed (see Diagram 363)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 22",
+    "description": "Red to play,andmate in seven",
+    "moves": "D1 f1 B1 a1 B2 g1 (7) __",
+    "answer": "Red begins with 7B3 or 7 C1, as shown in Diagram 410."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 23",
+    "description": "Black to play",
+    "moves": "D1 b1 F1 g1 B2 d2 D3 d4 B3 (10) __",
+    "answer": "Black wins with 10 f2, using the second row to undercut Red's third row (related to Diagram 373)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 24",
+    "description": "Black to play (Hint: Prevent key Red threat)",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 G1 e1 G2 a2 B1 e2 G3 g4 E3 (18) __",
+    "answer": "Black draws with 18 e4, preventing Red's odd-row threat (see Diagram 171)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 25",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 C2 (16) __",
+    "answer": "Black wins with 16 c3 to block Red's third row (see Diagram 330)."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 26",
+    "description": "Black to play,and mate infour",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 d3 F1 f2 G1 (12) __",
+    "answer": "Black begins with 12 e2."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 27",
+    "description": "Black to play, and mate in five",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 F1 f2 G1 (12) __",
+    "answer": "Blackplays12 e2,14 e3,16d3,18b2."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 28",
+    "description": "Black to play,andmate infour",
+    "moves": "C1 c2 B1 d1 B2 f1 D2 d3 B3 b4 B5 d4 C3 (14) __",
+    "answer": "Black begins with 14 gl."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 29",
+    "description": "Black toplay,andmate infour",
+    "moves": "C1 c2 B1 d1 B2 b3 C3 d2 B4 g1 B5 (12) __",
+    "answer": "Black begins with12fl."
+  },
+  {
+    "set_name": "Problem Set A (Easy)",
+    "title": "PROBLEM 30",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 c1 C2 c3 D4 d5 G1 c4 F1 e1 F2 (14) __",
+    "answer": "Blackwinswith14c5,then16bl (seeDiagram232)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 31",
+    "description": "Black to play, and mate in three",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 C4 d3 E2 (12) __",
+    "answer": "Blackbeginswith12e3."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 32",
+    "description": "Black to play (Hint: Kill Red's third row)",
+    "moves": "D1 d2 D3 d4 D5 b1 B2 b3 F1 e1 B4 (12) __",
+    "answer": "Black draws with 12 e2, using the second row to undercut Red's third row (see Diagram 245)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 33",
+    "description": "Black to play",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 C1 d4 F4 c2 C3 d5 D6 (16) __",
+    "answer": "Black wins with 16 c4, pointing toward several possible future threats (see Diagram 71)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 34",
+    "description": "Black to play,and mate in four",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 A2 d3 E2 (12) __",
+    "answer": "Black begins with 12 e3."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 35",
+    "description": "Black to play,and mate in four",
+    "moves": "D1 c1 C2 d2 A1 c3 C4 g1 F1 f2 E1 (12) __",
+    "answer": "Blackbeginswith12e2."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 36",
+    "description": "Red to play",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 D4 g1 E2 g2 (13) __",
+    "answer": "Red wins with 13 G3 (related to Diagram 167)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 37",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 f1 F2 c2 C3 c4 (9) __",
+    "answer": "Red draws with 9 F3 (when in doubt, play on the third row!) (see Diagram 361)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 38",
+    "description": "Black to play",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 G1 e1 G2 a2 B1 e2 G3 g4 E3 e4 E5 g5 E6 c6 A3 (24) __",
+    "answer": "Black draws with 24 a4, preventing a Red odd-row threat (see Diagram 173)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 39",
+    "description": "Red to play,andmate in six",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 F2 d2 (11) __",
+    "answer": "Red begins with 11 F3 or 11 G1, as shown in Diagram 411."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 40",
+    "description": "Black to play,andmateinfour",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 B2 c4 F1 (12) __",
+    "answer": "Black begins with 12 d3."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 41",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 b2 E2 a1 E3 e4 A2 e5 B3 (12) __",
+    "answer": "Black draws with 12 b4, a strategic cell. If Red responds with B5, Blackmust answer at b6! (see Diagram 299)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 42",
+    "description": "Black to play (Hint: Play where Red wants to play)",
+    "moves": "D1 e1 B1 a1 B2 b3 B4 a2 A3 e2 E3 e4 D2 (14) __",
+    "answer": "Black wins with 14 d3, killing Red's third row (see Diagram 277)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 43",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 b1 B2 b3 B4 b5 E1 (12) __",
+    "answer": "Black draws with 12 f1, the proper firm response since Red F1 forces after 12 gl (related to Diagram 241)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 44",
+    "description": "Black to play",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 C1 d4 F4 c2 C3 (14) __",
+    "answer": "Blackwinswith 14 d5,a much better cell than D6, which Redmust nowtake (seeDiagram379)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 45",
+    "description": "Red to play (Hint: Kll Black's threat)",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 d2 F3 f4 D3 d4 C2 c3 C4 e2 E3 b2 A1 d5 F5 e4 E5 c5 A2 b3 B4 b5 (29) __",
+    "answer": "Red wins with 29 A3, robbing Black of his or her a5 threat (see Diagram 348)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 46",
+    "description": "Red to play 2823",
+    "moves": "D1 b1 G1 b2 F1 e1 D2 d3 E2 e3 E4 d4 D5 b3 B4 b5 A1 f2 E5 g2 G3 g4 E6 f3 B6 g5 G6 d6 A2 a3 (31) __",
+    "answer": "Red wins with31C1, the last harmless cell. This produces the rarish case of a triple threat based on four odd-row threats. (Many of the prior moves in this diagram areblunders.)"
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 47",
+    "description": "Black to play, and mate in five",
+    "moves": "D1 d2 A1 d3 A2 e1 F1 f2 G1 (10) __",
+    "answer": "Black plays 10 e2, 12 e3, 14 g3,16f4."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 48",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 f3 D2 e2 D3 d4 E3 f4 E4 (16) __",
+    "answer": "Black draws with 16 f5, followed by 18 e5 (see Diagram 351)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 49",
+    "description": "Red to play (Hint: Watch out for Black!)",
+    "moves": "D1 e1 B1 a1 B2 b3 B4 a2 A3 e2 E3 e4 A4 a5 E5 b5 D2 c1 D3 d4 (21) __",
+    "answer": "Red wins with 21 D5, preventing a Black adjacent threat pair (see Diagram 279)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 50",
+    "description": "Black to play, and mate in three",
+    "moves": "D1 e1 B1 b2 A1 c1 B3 b4 B5 (10) __",
+    "answer": "Black begins with 10 d2."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 51",
+    "description": "Black to play, and mate in three",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 a2 B2 b3 E2 (12) __",
+    "answer": "Black begins with 12 c3."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 52",
+    "description": "Red to play, and mate in five",
+    "moves": "D1 a1 D2 d3 D4 a2 F1 c1 (9) __",
+    "answer": "Red plays G1, F2, E3 (mate in five rather than four because Black can delay the inevitable with 10 a3)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 53",
+    "description": "Red to play,and mate in19",
+    "moves": "D1 d2 D3 d4 (5) __",
+    "answer": "Red begins with 5 D5, a central fifth-row cell. (Of course, you can't see 19 moves ahead!)"
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 54",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 C2 (14) __",
+    "answer": "Black wins with 14 c3, blocking Red's third row (see Diagram 337)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 55",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 D2 e3 E4 d3 B3 (16) __",
+    "answer": "Black wins with 16 d4; follow with 18 d5 to destroy Red's future (see Diagram 354)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 56",
+    "description": "Red to play,andmate in five",
+    "moves": "D1 a1 E1 c1 C2 c3 C4 c5 A2 a3 (11) __",
+    "answer": "Red begins with 11 D2, as shown in Diagram 412."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 57",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 c6 A2 b3 B4 b5 E3 e4 (19) __",
+    "answer": "Red wins with 19 A3; Red's future winning fth-row threat hasn't materialized yet, but the first step is to stop Black's third-row threat (see Diagram 290)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 58",
+    "description": "Black to play (Hint: Kill Red's right-side defense)",
+    "moves": "D1 e1 A1 e2 B1 c1 B2 b3 C2 c3 D2 a2 D3 d4 C4 d5 B4 c5 B5 (20) __",
+    "answer": "Black wins with 20 b6, winning eventually on sixth row (see Diagram 164)."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 59",
+    "description": "Black to play,andmate in five",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 A2 e2 C4 (12) __",
+    "answer": "Black plays 12 e3, 14 d3 to form an adjacent threat pair."
+  },
+  {
+    "set_name": "Problem Set B (Easy)",
+    "title": "PROBLEM 60",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 E1 c1 C2 c3 E2 c4 E3 e4 G1 (14) __",
+    "answer": "Black wins with14f1 (seeDiagram122)"
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 61",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 E5 e6 C3 d2 D3 c4 C5 c6 B1 (20) __",
+    "answer": "Black wins with 20 b2; Red builds threats easily if he or she gets B2 (related to Diagram 293)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 62",
+    "description": "Black to play",
+    "moves": "D1 b1 B2 d2 D3 d4 F1 e1 F2 f3 B3 d5 B4 b5 F4 (16) __",
+    "answer": "Black draws with 16 f5, to make fifth-row threats (see Diagram 393)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 63",
+    "description": "Black to play",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 C1 d4 F4 c2 C3 d5 D6 c4 C5 f5 F6 (20) __",
+    "answer": "Black wins with 20 c6, the only play that doesn't hurt Black (see Diagram 379)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 64",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 e5 A1 (10) __",
+    "answer": "Black draws with 10 bl (any other move except cl gives Red a quick win) (related toDiagram148)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 65",
+    "description": "Red to play (Hint: Beware of Black d4)",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 g1 G2 g3 E1 e2 C5 a1 (15) __",
+    "answer": "Red wins with 15 G4; if Black gets g4 and d4, he or she will lock up the board with even-row threats (see Diagram 227)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 66",
+    "description": "Red toplay",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 a1 A2 a3 C2 c3 (19) __",
+    "answer": "Red wins with 19 F6 (see Diagram 316)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 67",
+    "description": "Black to play",
+    "moves": "D1 b1 F1 g1 B2 d2 D3 d4 B3 f2 G2 f3 E1 c1 C2 (16) __",
+    "answer": "Black wins with 16 f4, with 18 c3 to follow (related to Diagram 373)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 68",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 b1 B2 b3 E1 (10) __",
+    "answer": "Black draws with 10 f1, killing Red's offense (see Diagram 243)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 69",
+    "description": "Black to play",
+    "moves": "D1 f1 F2 d2 D3 d4 F3 d5 E1 c1 F4 f5 D6 a1 A2 a3 G1 a4 A5 b1 E2 e3 B2 f6 A6 c2 C3 c4 C5 (30) __",
+    "answer": "Black wins with 30 e4; Black will get either e5 (and a strategic win) or e6 (and a quick win in column B). If Red is allowed to take G2 first, Red can answer e4 with double check (related to Diagram 248)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 70",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 g2 G3 c2 B1 d5 C3 f4 F5 d6 A1 b2 F6 e1 A2 g4 G5 g6 A3 a4 A5 (30) __",
+    "answer": "Black wins with 30 a6, eventually winning on the sixth row (related to Diagram 89)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 71",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 e1 E2 e3 D4 d5 B1 e4 A1 c1 B2 e5 E6 (16) __",
+    "answer": "Black wins with 16 fl, preventing Red adjacent threats C3-C4 (related to Diagram 235)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 72",
+    "description": "Red to play,and mate in seven",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 B1 a2 A3 b2 (13) __",
+    "answer": "Red begins with 13 E1, as shown in Diagram 413."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 73",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 C2 e4 E5 f3 F4 f5 C3 c4 C5 f6 A1 c6 (21) __",
+    "answer": "Red wins with 21 E6, preventing Black adjacent threats at d5-d6 (related to Diagram 298)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 74",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 g1 G2 g3 E1 e2 C5 a1 B1 (16) __",
+    "answer": "Black wins with 16 d4, followed by d5 to kill the fth row (see Diagram 227)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 75",
+    "description": "Black to play 1923",
+    "moves": "D1 f1 D2 d3 E1 e2 E3 e4 D4 g1 G2 e5 B1 c1 B2 d5 A1 a2 D6 g3 G4 f2 E6 g5 A3 (26) __",
+    "answer": "Black wins with 26 f3 followed by f5, a push-up play (related to Diagram 16)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 76",
+    "description": "Black to play,and mate in six",
+    "moves": "D1 d2 C1 e1 C2 d3 F1 e2 F2 (10) __",
+    "answer": "Black plays 10 e3, 12 c3, eventually winning with an adjacent threat pair."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 77",
+    "description": "Black to play, and mate in five",
+    "moves": "C1 c2 A1 e1 D1 b1 C3 e2 E3 (10) __",
+    "answer": "Black plays10b2, 12 b3,14d3,16 c4."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 78",
+    "description": "Black to play (Hint: Kill Red's third-row chances)",
+    "moves": "D1 e1 B1 b2 A1 c1 B3 b4 C2 (10) __",
+    "answer": "Black draws with 10 c3 (similar to Diagram 81)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 79",
+    "description": "Black to play (Hint: Prevent key Red threat)",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 D4 b4 B5 a2 E2 a3 A4 d5 E3 g1 D6 g2 G3 (22) __",
+    "answer": "Black wins with 22 g4, preventing a Red odd-row threat (see Diagram 180)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 80",
+    "description": "Black to play 232217",
+    "moves": "D1 d2 D3 d4 C1 e1 E2 e3 C2 e4 C3 c4 A1 b1 A2 e5 E6 d5 A3 a4 C5 d6 C6 g1 G2 a5 G3 (28) __",
+    "answer": "Black wins with 28 a6, taking a neutral cell to preserve Black's threats at the upper right side (related to Diagram 122)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 81",
+    "description": "Red to play 1513",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 c5 D6 a1 C6 f3 F4 b1 B2 b3 B4 b5 (23) __",
+    "answer": "Red wins with 23 B6; either F5 or F6 will complete the triple threat, so defeating Black's e3 undercut is the urgent play (related to Diagram 210, which shows a losing variation.)"
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 82",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 e1 E2 e3 E4 c2 C3 c4 D2 d3 C5 e5 (15) __",
+    "answer": "Red wins with 15 G2, completing the triple threat D5-F3-F2 (related to Diagram 269)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 83",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 b1 (9) __",
+    "answer": "Red wins with 9 F1 forcing Black to play el."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 84",
+    "description": "Black to play,andmate infive",
+    "moves": "D1 c1 C2 c3 G1 d2 A1 c4 A2 f1 F2 (12) __",
+    "answer": "Black begins with 12 d3."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 85",
+    "description": "Black to play (Hint: Don't hurt yourselfl)",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 E1 c2 C3 d6 C4 c5 C6 f6 G2 (22) __",
+    "answer": "Black wins with 22 al, the only move that doesn't hurt Black (see Diagram 331)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 86",
+    "description": "Red to play (Hint: Create a right-side win)",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 B2 e1 A1 b3 B4 b5 A2 a3 B6 f6 (25) __",
+    "answer": "Red wins with 25 E2; Red is not worried about Black taking e3 because of Red's E5-G3 threat (see Diagram 314)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 87",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 e1 B1 a1 E2 b2 E3 e4 (13) __",
+    "answer": "Red wins with 13A2, blocking Black's second-row threat (see discussion at Diagram 110)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 88",
+    "description": "Black to play,and mateinfive",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 e2 G1 e3 E4 (12) __",
+    "answer": "Black begins with 12 d3."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 89",
+    "description": "Red to play (Hint: Don't let Black win!)",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 g1 G2 b3 (15) __",
+    "answer": "Red wins with 15 B4 (see Diagram 288)."
+  },
+  {
+    "set_name": "Problem Set C (Medium)",
+    "title": "PROBLEM 90",
+    "description": "Black to play",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 (8) __",
+    "answer": "Red wins with 19 A2; if Black plays there, he or she gets a key overcutting threat (related to Diagram 385)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 91",
+    "description": "Red to play (Hint: Retain left-side chances)",
+    "moves": "D1 c1 G1 f1 F2 c2 D2 c3 C4 g2 D3 d4 F3 g3 F4 f5 (17) __",
+    "answer": "Black draws with 8 a3, preventing a Red horizontal third-row threat."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 92",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 d6 E1 f1 B1 c1 C2 c3 C4 f2 A1 f3 F4 e2 E3 e4 A2 e5 B2 b3 (25) __",
+    "answer": "Red wins with 25 A3, followed by A5, winning in the upper left (related to Diagram 126)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 93",
+    "description": "Black to play",
+    "moves": "D1 f1 F2 d2 D3 d4 F3 d5 F4 f5 E1 c1 D6 a1 G1 c2 C3 (18) __",
+    "answer": "Black wins with 18 a2, killing any Red left-side chance (related to Diagram 386)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 94",
+    "description": "Red to play",
+    "moves": "D1 f1 B1 c1 B2 d2 B3 b4 D3 d4 F2 d5 F3 f4 (15) __",
+    "answer": "Red wins with 15 E1, blocking Black's possible threat at c3 (related to Diagram 374)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 95",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 D4 a2 C1 c2 D5 d6 G1 g2 G3 g4 G5 e5 (21) __",
+    "answer": "Red wins with 21 G6, making a major odd-row threat (related to Diagram 228)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 96",
+    "description": "Black to play (Hint: Don't relinquish anything)",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 c6 E3 d2 D3 e4 E5 e6 F1 f2 F3 (22) __",
+    "answer": "Black wins with 22 a2, the only move that doesn't hurt Black (see Diagram 293)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 97",
+    "description": "Red to play",
+    "moves": "D1 e1 E2 e3 E4 e5 B1 g1 A1 c1 A2 g2 F1 c2 A3 a4 C3 c4 C5 c6 A5 f2 (23) __",
+    "answer": "Red wins with 23 G3; this threatens G4 with strong follow-up moves, so is better than the more passive D2 (related to Diagram 172)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 98",
+    "description": "Red to play",
+    "moves": "D1 f1 B1 c1 B2 b3 D2 d3 E1 d4 B4 e2 G1 d5 D6 g2 G3 g4 G5 e3 (21) __",
+    "answer": "Red wins with 21 E4, preventing a Black threat at f3 (related to Diagram 375)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 99",
+    "description": "Black to play (Hint: You'd love to get d3)",
+    "moves": "D1 e1 B1 b2 A1 c1 B3 (8) __",
+    "answer": "Black wins with 8 d2, forcing Red; then Black answers C2 at d3 (see Diagram 81)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 100",
+    "description": "Red to play (Hint: Play where Black wants to play)",
+    "moves": "D1 b1 B2 d2 D3 d4 F1 e1 F2 f3 B3 d5 B4 b5 D6 f4 (17) __",
+    "answer": "Red wins with 17 F5, where Black would love to play (see Diagram 392)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 101",
+    "description": "Red to play (Hint: Which cell has eventual value?)",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 d2 F3 f4 D3 d4 B2 d5 (15) __",
+    "answer": "Red wins with 15 F5, a strategic cell for either player (see Diagram 341)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 102",
+    "description": "Black toplay",
+    "moves": "D1 e1 A1 b1 B2 e2 B3 e3 E4 d2 B4 b5 D3 d4 D5 (16) __",
+    "answer": "Black wins with 16 d6, blocking Red's A3-D6 diagonal (which would combine with the A4-D1 diagonal for an unusual triple threat) (related to Diagram 362)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 103",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 D4 a2 A3 e2 F1 d5 E3 (16) __",
+    "answer": "Black draws with 16 b4 (see Diagram 88)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 104",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 c2 C3 g2 G3 f4 D5 c4 F5 c5 (19) __",
+    "answer": "Red wins with 19B1, tokill Black's undercut at e4 (related to Diagram 73)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 105",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 D4 a2 A3 e2 (13) __",
+    "answer": "Red wins with 13 E3, preventing Black e3-e5, which would give a c3 threat solely to Black (see Diagram 53)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 106",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 F4 f5 B1 c1 C2 c3 A1 d6 C4 b2 (19) __",
+    "answer": "Red wins with 19 B3, followed by E1 and eventual victory in the upper left (related to Diagram 239)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 107",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 c2 G2 f4 (13) __",
+    "answer": "Red wins with 13 C3; Red has the winning triple threat C5-E3-E2 but must not let Black destroy it with the push-up play c3 c5 (related to Diagram 85)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 108",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 F4 f5 D6 a1 F6 c5 E1 e2 (21) __",
+    "answer": "Red wins with 21 C6, completing a triple threat (related to Diagram 194)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 109",
+    "description": "Black to play (Hint: Prevent Red's strong move)",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 g1 G2 g3 E1 e2 C5 a1 E3 (16) __",
+    "answer": "Black draws with 16 e4 (see Diagram 156)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 110",
+    "description": "Black to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 D5 b3 E2 e3 B4 (14) __",
+    "answer": "Black wins with 14 b5; Red would get a triple threat if he or she captured B5 (related to Diagram 332)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 111",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 F1 c2 G1 e1 E2 e3 (13) __",
+    "answer": "Red wins with 13 E4, following with G2 if Black takes e5 (related to Diagram 218)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 112",
+    "description": "Black to play (Hint: Which is Red's key row?)",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 D5 (10) __",
+    "answer": "Black wins with 10 f3, blocking Red's third-row threat (see Diagram 332)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 113",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 c1 F1 c2 F2 f3 F4 (12) __",
+    "answer": "Black wins with 12 f5; Red would eventually get a triple threat if he or she played there (related to Diagram 219)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 114",
+    "description": "Red toplay,andmate in five",
+    "moves": "D1 a1 D2 d3 D4 b1 E1 a2 D5 c1 (11) __",
+    "answer": "Red begins with 11 G1, as shown in Diagram 414."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 115",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 c1 C2 c3 C4 d2 D3 e2 (11) __",
+    "answer": "Red wins with 11 C5, a good cell that gives up nothing (related to Diagram 365)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 116",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 g2 G3 c2 C3 f4 D5 f5 F6 e1 E2 d6 B1 b2 B3 b4 B5 b6 (27) __",
+    "answer": "Red wins with 27 G4, the only safe cell (related to Diagram 54)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 117",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 B1 a1 C1 e1 C2 c3 B2 d6 F4 (18) __",
+    "answer": "Black wins with 18 f5, preventing a Red threat at E4 (related to Diagram 244)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 118",
+    "description": "Red to play (Hint: Stop the overcutting threat)",
+    "moves": "D1 b1 B2 d2 D3 d4 B3 d5 B4 b5 C1 d6 G1 f1 F2 f3 F4 f5 (19) __",
+    "answer": "Red wins with 19 G2, not letting Black make an easy threat at e4 (related to Diagram 388)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 119",
+    "description": "Red to play (Hint:Get a huge strategic lead)",
+    "moves": "D1 c1 F1 b1 E1 g1 F2 d2 F3 f4 D3 d4 B2 d5 D6 f5 (17) __",
+    "answer": "Red wins with 17 B3, to give third-row threats on both sides (see Diagram 352)."
+  },
+  {
+    "set_name": "Problem Set D (Medium)",
+    "title": "PROBLEM 120",
+    "description": "Black to play (Hint: The danger is in the upper right)",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 E3 e4 E5 d2 C5 g1 G2 d3 E6 g3 C6 (22) __",
+    "answer": "Black wins with 22 g4, the only play that doesn't hurt Black (see Diagram 138)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 121",
+    "description": "Black to play (Hint: Keep your threats intact)",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 B3 c5 D2 d3 A2 b4 E3 b5 A3 a4 A5 c6 B6 g1 G2 g3 G4 g5 G6 f1 A6 (32) __",
+    "answer": "Black draws with 32 f2, the only safe cell (see Diagram 76)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 122",
+    "description": "Red to play (Hint: Red needs an odd-row threat; C5 is undercut)",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 D4 a2 A3 e2 E3 b4 D5 b5 B6 c1 C2 d6 F1 f2 F3 f4 (25) __",
+    "answer": "Red wins with25F5forfifth-row threats (seeDiagram54)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 123",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 b1 B2 e2 D2 e3 E4 a2 D3 d4 B3 a3 B4 b5 G1 d5 (19) __",
+    "answer": "Red wins with 19 E5, avoiding a Black c5 threat (related to Diagram 363)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 124",
+    "description": "Red to play,andmate in five",
+    "moves": "D1 a1 D2 d3 G1 f1 F2 f3 (9) __",
+    "answer": "Red begins with 9 E1, as shown in Diagram 415."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 125",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 d6 E1 f1 B1 c1 C2 c3 C4 f2 A1 f3 F4 c5 A2 f5 F6 a3 C6 a4 A5 (26) __",
+    "answer": "Black wins with 26 a6 (related to Diagram 59)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 126",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 f1 F2 f3 A2 f4 F5 g1 G2 a3 (23) __",
+    "answer": "Red wins with 23 A4, completing the triple threat C2-C3-E3 (related to Diagram 334)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 127",
+    "description": "Red to play (Hint: Take the better of two cells)",
+    "moves": "D1 e1 B1 b2 (5) __",
+    "answer": "Red wins with 5 A1, which is generally more valuable than C1."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 128",
+    "description": "Black to play (Hint: How can Red break into your a2-f2 row?)",
+    "moves": "D1 d2 D3 c1 D4 c2 C3 (8) __",
+    "answer": "Black wins with 8 gl, preserving Black's second-row threats (related to Diagram 78)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 129",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 F4 f5 B1 c1 C2 c3 A1 d6 (17) __",
+    "answer": "Red wins with 17 C4, threatening both A2 and E2 (related to Diagram 239)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 130",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 e5 A1 b1 B2 d4 B3 b4 D5 b5 (17) __",
+    "answer": "Red wins with 17 G1, to keep the right side in play (related to Diagram 148)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 131",
+    "description": "Red to play (Hint: Value near the center)",
+    "moves": "D1 c1 G1 e1 E2 e3 (7) __",
+    "answer": "Red wins with 7E4, a strategic center cell (see Diagram 367)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 132",
+    "description": "Red toplay",
+    "moves": "D1 d2 D3 c1 C2 c3 D4 d5 G1 e1 G2 g3 (13) __",
+    "answer": "Red wins with 13 E2, which offers strong follow-up moves at C4, E3, or G4 (see Diagram 234)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 133",
+    "description": "Black to play, and mate in five",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 d3 G1 a2 B2 (12) __",
+    "answer": "Blackbeginswith12c3."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 134",
+    "description": "Red to play,andmate in eight",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 A2 e1 G1 g2 (13) __",
+    "answer": "Red begins with 13F2, as shown in Diagram 416."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 135",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 a1 B2 b3 B4 a2 A3 e2 E3 b5 E4 (14) __",
+    "answer": "Black wins with 14 d2, to lock up the second row (see Diagram 275)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 136",
+    "description": "Red to play 3024",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 d2 F3 f4 D3 d4 B2 d5 F5 a1 C2 b3 C3 c4 A2 c5 A3 d6 G2 f6 G3 g4 G5 c6 (31) __",
+    "answer": "Red wins with 31 G6, the only play that doesn't hurt Red (see Diagram 345)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 137",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 D6 g1 B6 c1 E5 e6 G2 (22) __",
+    "answer": "Black draws with 22 g3, to avoid Red adjacent threats at F3-F4 (see Diagram 100)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 138",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 F4 b1 B2 b3 B4 f5 (15) __",
+    "answer": "Red wins with 15 B5, forming a triple threat in the fth row (related to Diagram 61)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 139",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 c2 F2 f3 D2 c3 C4 g1 D3 d4 D5 f4 (15) __",
+    "answer": "Red wins with 15 A1, a forcing move that prevents Black's possible threat at b2 (related to Diagram 99)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 140",
+    "description": "Red to play,and mate in six",
+    "moves": "D1 c1 D2 d3 D4 c2 C3 d5 B1 b2 D6 b3 (13) __",
+    "answer": "Red begins with 13 B4, as shown in Diagram 417."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 141",
+    "description": "Red to play (Hint: Foil Black's left-side plans)",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 (15) __",
+    "answer": "Red wins with 15 B2; Black would have strong threats if he or she plays there (see Diagram 300)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 142",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 G3 c2 C3 c4 G4 g5 C5 f5 (17) __",
+    "answer": "Red wins with 17 D2, preventing Black from locking out the left side with a second-row threat (related to Diagram 278)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 143",
+    "description": "Black to play (Hint: You need to win on the left side)",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 e1 A1 c2 C3 (18) __",
+    "answer": "Black wins with 18 a2; in the endgame, Red will block at B2 then C4, and Black will get c5 (see Diagram 323)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 144",
+    "description": "Red to play (Hint: Retain right-side chances)",
+    "moves": "D1 e1 B1 a1 B2 b3 B4 a2 A3 e2 E3 e4 E5 d2 B5 g1 (17) __",
+    "answer": "Red wins with 17 G2; if Black plays there, Red can't win in column F (see Diagram 282)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 145",
+    "description": "Red to play,andmatein six",
+    "moves": "D1 b1 B2 b3 D2 a1 (7) __",
+    "answer": "Red begins with 7 E1, as shown in Diagram 418."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 146",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 c2 F2 f3 D2 c3 C4 g1 D3 d4 F4 g2 D5 g3 G4 g5 C5 f5 E1 e2 A1 a2 D6 a3 (27) __",
+    "answer": "Red wins with 27 F6, preventing a Black counterthreat (related to Diagram 38)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 147",
+    "description": "Red to play (Hint: Kill Black's threat)",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 d2 F3 f4 D3 d4 C2 c3 C4 e2 E3 b2 A1 d5 (21) __",
+    "answer": "Red wins with 21 F5, robbing Black of an e5 threat (see Diagram 347)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 148",
+    "description": "Black to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 f1 F2 c1 A2 f3 F4 f5 A3 a4 F6 e2 A5 b6 E3 (28) __",
+    "answer": "Black wins with 28 a6, the only harmless cell left (related to Diagram 313)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 149",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 G1 d6 F1 g2 (19) __",
+    "answer": "Red wins with 19 C1; Black's cl would kill Red's future threat at F5 (see Diagram 199)."
+  },
+  {
+    "set_name": "Problem Set E (Medium)",
+    "title": "PROBLEM 150",
+    "description": "Black to play",
+    "moves": "D1 c1 C2 c3 C4 g1 G2 g3 C5 d2 A1 d3 E1 b1 G4 e2 E3 b2 B3 b4 A2 c6 G5 (24) __",
+    "answer": "Black draws with 24 g6, the only safe cell (related to Diagram 48)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 151",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 e1 E2 e3 D4 d5 A1 c1 (11) __",
+    "answer": "Red wins with 11 A2, relevant to both second- and third-row horizontal threats (related to Diagram 234)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 152",
+    "description": "Black to play",
+    "moves": "D1 c1 C2 c3 D2 d3 D4 d5 C4 d6 G1 (12) __",
+    "answer": "Black wins with 12 el, preventing Red's F1-F2 (related to Diagram 32)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 153",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 B1 (10) __",
+    "answer": "Black wins with 10 al, aiming at the key al-d4 diagonal (related to Diagram 244)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 154",
+    "description": "Black to play,and mate infour",
+    "moves": "D1 c1 C2 d2 A1 c3 C4 d3 A2 a3 B1 (12) __",
+    "answer": "Black begins with 12 a4, eventually building an adjacent threat at b3-b4."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 155",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 f4 C2 (12) __",
+    "answer": "Black wins with 12 f5; after Red's forced reply, Black will take c3 (related to Diagram 51)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 156",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 G1 d6 F1 g2 C1 f2 (21) __",
+    "answer": "Red wins with 21 F3, defeating Black's f4-g5 diagonal and so preserving Red's F5 threat (related to Diagram 46)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 157",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 C2 e4 E5 d2 D3 d4 D5 d6 A1 b1 (19) __",
+    "answer": "Red wins with 19 A2; Red will follow with either A3 or A4 to win (related to Diagram 295)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 158",
+    "description": "Black toplay,and mate in five",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 G1 d3 D4 (12) __",
+    "answer": "Black begins with 12 c4, continuing as shown in Diagram 419."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 159",
+    "description": "Black to play",
+    "moves": "D1 e1 E2 e3 E4 e5 B1 g1 A1 c1 A2 g2 F1 (14) __",
+    "answer": "Black draws with 14 c2, blocking Red's possible threat at D3 (see Diagram 171)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 160",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 E3 e4 E5 d2 C5 g1 G2 (18) __",
+    "answer": "Black wins with 18 d3, building a triple threat at a3-b3-b4 (see Diagram 138)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 161",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 c1 E2 e3 C2 c3 C4 f1 D2 f2 (13) __",
+    "answer": "Red wins with 13 B1, leading to mate in three moves (see Diagram 15)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 162",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 f2 F3 d2 D3 (8) __",
+    "answer": "Black wins with 8 gl, guaranteeing Black a major second-row threat (relatedtoDiagram39)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 163",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 C2 c3 C4 (18) __",
+    "answer": "Black wins with 18 c5, with either b5 or b6 to yield an eventual odd-rowthreat (seeDiagram330)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 164",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 G1 d6 F1 g2 C1 f2 E5 (22) __",
+    "answer": "Black draws with 22 f3, so the d2-g5 diagonal kills Red's right-side threats (related to Diagram 46)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 165",
+    "description": "Black to play",
+    "moves": "D1 f1 F2 d2 D3 d4 B1 c1 B2 b3 F3 d5 F4 f5 B4 b5 D6 (18) __",
+    "answer": "Black wins with 18 c2 (related to Diagram 393)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 166",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 a1 B2 b3 B4 a2 A3 e2 E3 e4 A4 a5 (15) __",
+    "answer": "Red wins with 15 E5, aiming at eventual D4 or D5 (see Diagram 278)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 167",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 b2 A1 c1 E2 b3 B4 c2 A2 e3 B5 a3 C3 c4 (17) __",
+    "answer": "Red wins with 17 C5, making fifth-row threats (see Diagram 285)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 168",
+    "description": "Red to play",
+    "moves": "D1 b1 B2 d2 D3 d4 B3 d5 B4 b5 C1 d6 G1 f1 F2 f3 F4 f5 G2 g3 F6 b6 A1 e1 (25) __",
+    "answer": "Red wins with 25 A2, with a major odd-row threat then forced by disk 29 (see discussion at Diagram 388)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 169",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 c2 C3 c4 D2 d3 F1 e1 D4 f2 (13) __",
+    "answer": "Red wins with 13 B1; if Black plays there, his or her e4 threat will end Red's chances in the upper right (see Diagram 368)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 170",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 b1 F1 e1 C2 (12) __",
+    "answer": "Black wins with 12 c3, blocking Red's third-row threat (see Diagram 221)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 171",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 F4 f5 D6 a1 E1 (18) __",
+    "answer": "Black wins with 18 f6, preventing Red's play at E4 (related to Diagrams 192 and 84)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 172",
+    "description": "Red toplay",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 (9) __",
+    "answer": "Red wins with 9 A2; left-side horizontal threats are urgent (related to Diagram 153)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 173",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 F3 e5 D2 (14) __",
+    "answer": "Black draws with 14 d3, completing the undercut of Red's potential D5 threat and destroying other potential Red threats as well (related to Diagram 74)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 174",
+    "description": "Black to play, and mate in five",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 G1 c4 C5 (12) __",
+    "answer": "Black begins with 12 d3; one continuation is shown in Diagram 420."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 175",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 e1 B1 a1 E2 e3 E4 e5 G1 g2 G3 g4 G5 g6 (19) __",
+    "answer": "Red wins with 19 B2, the only way to guarantee left-side odd-row threats (see Diagram 95)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 176",
+    "description": "Black to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 f1 F2 f3 C1 f4 F5 g1 C2 c3 F6 e2 B6 a2 G2 (28) __",
+    "answer": "Black wins with 28 g3, the only safe cell (related to Diagram 371)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 177",
+    "description": "Black to play 1517",
+    "moves": "D1 d2 D3 c1 C2 c3 D4 d5 G1 c4 F1 e1 F2 c5 C6 b1 D6 a1 A2 (20) __",
+    "answer": "Black wins with 20 b2, seizing control of the left side (see Diagram 232)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 178",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 A1 (12) __",
+    "answer": "Black draws with 12 f2, aiming at a counterthreat at e3 (related to Diagram 193)."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 179",
+    "description": "Black to play, and mate in six",
+    "moves": "D1 d2 A1 d3 A2 b1 C1 c2 G1 (10) __",
+    "answer": "Black begins with 10 el, with various ways to eventually form an adjacent threat pair depending on how Red plays."
+  },
+  {
+    "set_name": "Problem Set F (Hard)",
+    "title": "PROBLEM 180",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 a2 A3 b3 B4 b5 E3 e4 F1 e5 (21) __",
+    "answer": "Red wins with 21 D2, building the diagonal threat d2-g5 (related to Diagram 291)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 181",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 c1 C2 c3 C4 e2 E3 e4 D2 d3 (13) __",
+    "answer": "Red wins with 13 E5, killing Black's b2-e5 diagonal (see Diagram 269)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 182",
+    "description": "Black toplay,and mate in five",
+    "moves": "D1 e1 B1 b2 B3 a1 C1 d2 A2 (10) __",
+    "answer": "Black plays 10 e2, 12 c3, 14 d3, 16 c4."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 183",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 B1 c1 (11) __",
+    "answer": "Red draws with 11 F4, blocking the fourth row (related to Diagram 245)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 184",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 c6 A2 b3 B4 b5 E3 e4 A3 a4 B6 e5 (23) __",
+    "answer": "Red wins with 23 D2; if Black plays there, he or she locks out the right side (see Diagram 290)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 185",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 C5 d6 (15) __",
+    "answer": "Red wins with 15 A1 (related to Diagram 214)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 186",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 C5 f2 F3 g1 G2 g3 (17) __",
+    "answer": "Red wins with 17 G4, with the winning triple threat E2-E5-F5 (related to Diagram 211)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 187",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 e1 C2 c3 E2 e3 E4 b1 (11) __",
+    "answer": "Red wins with 11 D2, leading to mate in four moves (related to Diagram 15)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 188",
+    "description": "Black to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 c1 G1 e2 E3 g2 E4 e5 G3 e6 B6 (24) __",
+    "answer": "Black wins with 24 a2, the only harmless cell (related to Diagram 323)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 189",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 A2 a3 C1 c2 (13) __",
+    "answer": "Red wins with 13 E5, aiming at a fifth-row threat (related to Diagrams 151 and 227)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 190",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 (11) __",
+    "answer": "Red wins with 11 E5 (related to Diagram 287)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 191",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 e1 E2 c2 E3 c3 A1 b1 B2 c4 C5 e4 (19) __",
+    "answer": "Red wins with 19 G1, racing up column G to establish a major odd-row threat (related to Diagram 105)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 192",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 f4 C2 f5 F6 c3 A1 a2 D5 g2 A3 a4 (21) __",
+    "answer": "Red wins with 21 D6; Red's diagonal A3-D6 may undercut Black's b5-e2 diagonal (related to Diagram 52)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 193",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 c2 C3 (8) __",
+    "answer": "Black draws with 8 c4, the strategic central cell (see Diagram 361)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 194",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 f4 C2 f5 F6 (14) __",
+    "answer": "Black wins with 14 c3, to block Red's A5-D2 diagonal and thus preserve Black's undercut at b4-e2 (the e3 threat is irrelevant) (related to Diagram 51)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 195",
+    "description": "Black to play,andmate in six",
+    "moves": "D1 d2 C1 e1 C2 c3 B1 a1 G1 (10) __",
+    "answer": "Black begins with 10 d3; one continuation is shown in Diagram 421."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 196",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 a1 A2 a3 C2 c3 F6 e1 A4 (22) __",
+    "answer": "Black wins with 22 e2 and answers 23 E3 at a5! This is a very subtle game (see Diagram 318)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 197",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 F1 g1 C2 f2 C3 c4 G2 f3 F4 f5 (17) __",
+    "answer": "Red wins with 17 D6, followed by C5 or G3 (Black cannot block both diagonals) (related to Diagram 110)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 198",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 C3 c4 C5 d2 E5 a1 A2 d3 C6 a3 E6 a4 A5 (24) __",
+    "answer": "Black wins with 24 a6, the only harmless, temporizing move (related to Diagrams 358 and 359)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 199",
+    "description": "Black to play,and mate in six",
+    "moves": "D1 d2 A1 d3 A2 a3 B1 c1 E1 (10) __",
+    "answer": "Black begins with 10 c2."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 200",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 A2 a3 C1 d4 D5 b1 C2 c3 B2 c4 C5 (20) __",
+    "answer": "Black wins with 20 gl, sealing off Red's right-side threats (related to Diagram 155)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 201",
+    "description": "Red to play 2125",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 E5 e6 G2 f3 F4 f5 C3 c4 G3 g4 F6 c5 D2 g5 G6 c6 A1 b1 (29) __",
+    "answer": "Red wins with 29 B2; Black is in zugzwang (related to Diagram 291)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 202",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 A2 a3 C1 c2 E5 g1 A4 e6 A5 a6 (19) __",
+    "answer": "Red wins with 19 C3, with C5 to follow (related to Diagram 154)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 203",
+    "description": "Black to play",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 b1 A3 a4 E5 (12) __",
+    "answer": "Black draws with 12 b2, answering B3 at b4 (see Diagram 262)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 204",
+    "description": "Black to play,andmate infive",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 a2 B2 c3 F1 (12) __",
+    "answer": "Black plays 12 d3 A3 e2 E3 c4 to form an adjacent threat pair."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 205",
+    "description": "Red to play (Hint: Does your left side havea future?)",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 E5 b2 (13) __",
+    "answer": "Red wins with 13 B3, eventually developing threats in the upper part of column C (see Diagram 211)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 206",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 c2 C3 c4 F3 g2 F4 f5 C5 (14) __",
+    "answer": "Black draws with 14 c6 to kill Red's C6-F3 diagonal (see Diagram 361)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 207",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 B2 e1 G2 (18) __",
+    "answer": "Black wins with 18 b3 (see Diagram 312)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 208",
+    "description": "Red toplay,and mate in eight",
+    "moves": "D1 c1 D2 d3 D4 c2 C3 d5 A1 a2 C4 f1 (13) __",
+    "answer": "Red begins with 13 C5, as shown in Diagram 422."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 209",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 g1 G2 g3 E1 d4 E2 f1 (15) __",
+    "answer": "Red wins with 15 E3, followed by G4 to establish an odd-row threat (see Diagram 152)."
+  },
+  {
+    "set_name": "Problem Set G (Hard)",
+    "title": "PROBLEM 210",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 G3 c2 C3 f5 (13) __",
+    "answer": "Red wins with 13 D2 (related to Diagram 274)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 211",
+    "description": "Red to play",
+    "moves": "D1 b1 B2 d2 D3 d4 B3 d5 B4 b5 C1 e1 D6 g1 (15) __",
+    "answer": "Red wins with 15 G2; although Red has a left-side triple threat, he or she must maintain right-side possibilities as well. (Diagram 386 shows a result after Red errs here.)"
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 212",
+    "description": "Black to play",
+    "moves": "D1 c1 C2 c3 C4 (6) __",
+    "answer": "Black draws with 6 gl, blocking the first row and aiming at g2 and the d4-gl diagonal (related to Diagram 250)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 213",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 F4 f5 D6 a1 (17) __",
+    "answer": "Red wins with 17 F6, allowing a future Red play at E4 (related to Diagram 192)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 214",
+    "description": "Red to play",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 a3 E5 d2 G1 d3 C1 g2 (15) __",
+    "answer": "Red wins with 15 A4, forcing Black to waste a turn at c2 and preventing a horizontal Black undercutting threat at 16 d4 (related to Diagram 256)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 215",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 e5 A1 b1 B2 d4 B3 b4 D5 b5 G1 g2 C1 d6 B6 (22) __",
+    "answer": "Black wins with 22 e6 (related to Diagram 149)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 216",
+    "description": "Black toplay",
+    "moves": "D1 c1 F1 f2 F3 d2 D3 g1 C2 g2 C3 (12) __",
+    "answer": "Black wins with 12 c4, preventing Red from making a threat at E2 (related to Diagram 42)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 217",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 A2 a3 E5 d4 D5 g1 B1 (16) __",
+    "answer": "Black wins with 16 a4, for a fourth-row horizontal threat (related to Diagram 153)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 218",
+    "description": "Red to play",
+    "moves": "D1 f1 F2 d2 D3 d4 B1 c1 B2 b3 F3 d5 F4 f5 D6 b4 B5 e1 G1 f6 (21) __",
+    "answer": "Red wins with 21 B6, the only safe move (related to Diagram 249)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 219",
+    "description": "Black to play",
+    "moves": "D1 f1 B1 c1 B2 b3 D2 d3 E1 d4 B4 e2 F2 d5 D6 (16) __",
+    "answer": "Black wins with 16 f3, building useful even-row minor threats (related to Diagram 381)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 220",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 G1 d6 (17) __",
+    "answer": "Red wins with 17 F1, claiming a threat at C4 and keeping the play at G2 in reserve (see Diagrams 195 and 199)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 221",
+    "description": "Black to play",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 a3 E5 d2 G1 (12) __",
+    "answer": "Black draws with 12 d3, blocking two important diagonals (related to Diagram 256)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 222",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 E5 a1 C3 c4 C5 d2 A2 d3 C6 a3 A4 a5 A6 (24) __",
+    "answer": "Black wins with 24 e6, placing Red in zugzwang (related to Diagram 143)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 223",
+    "description": "Red to play",
+    "moves": "D1 f1 F2 d2 D3 d4 F3 d5 F4 f5 E1 d6 A1 b1 (15) __",
+    "answer": "Red wins with 15 B2 to stop any Black second-row threat (see discussion at Diagram 387)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 224",
+    "description": "Black toplay",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 f4 F5 g2 C2 g3 G4 d5 C3 a1 D6 a2 A3 a4 A5 g5 B1 f6 A6 (28) __",
+    "answer": "Black wins with 28 g6, the only harmless cell left (related to Diagram 180)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 225",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 (13) __",
+    "answer": "Red wins with 13 D6 (related to Diagram 337)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 226",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 F4 f5 C1 b1 B2 b3 B4 b5 D6 c2 (19) __",
+    "answer": "Red wins with 19 B6, producing triple threats in both the upper left and upper right (related to Diagram 241)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 227",
+    "description": "Black to play",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 a3 E5 d2 G1 d3 C1 f1 A4 c2 C3 f2 F3 (20) __",
+    "answer": "Black draws with 20 f4, blocking a future Red threat at D6-G3 (see Diagram 261)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 228",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 C2 e4 A1 e5 E6 g2 C3 c4 C5 c6 G3 g4 G5 f3 F4 g6 F5 f6 B1 d2 D3 (30) __",
+    "answer": "Black draws with 30 b2, before Red constructs a major threat at B3 (related to Diagram 146)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 229",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 d2 D3 d4 F1 e1 E2 e3 C2 e4 D5 e5 E6 b1 (17) __",
+    "answer": "Red wins with 17 D6, getting a sextuple threat on the left side (related to Diagram 264)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 230",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 c5 G1 f1 F2 d4 F3 f4 D5 f5 A1 a2 (19) __",
+    "answer": "Red wins with 19 E1, after which either E2 or E3 will give Red a major odd-rowthreat (see Diagram 148)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 231",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 G3 c2 C3 c4 C5 f5 (15) __",
+    "answer": "Red wins with 15 D2, since Black d3 would give Red D4 and an easywin (related to Diagram 280)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 232",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 c1 G1 e2 C2 c3 (19) __",
+    "answer": "Red wins with 19 G2, blocking a second-row threat (related to Diagram 324)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 233",
+    "description": "Red to play",
+    "moves": "D1 c1 C2 c3 C4 g1 G2 g3 C5 d2 A1 d3 E1 d4 D5 d6 (17) __",
+    "answer": "Red wins with 17 G4, forcing e2 E3 and also preventing any Black fourth-row horizontal threat (related to Diagram 259)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 234",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 G3 c2 C3 c4 C5 d2 F5 a1 A2 b1 B2 b3 (21) __",
+    "answer": "Red wins with 21 B4, preventing a Black fourth-row horizontal threat (related to Diagram 283)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 235",
+    "description": "Red to play 242613",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 E2 c4 G1 c5 C6 a2 E3 e4 E5 e6 A3 a4 A5 b3 B4 a6 B5 b6 (27) __",
+    "answer": "Red wins with 27 G2, temporizing (see Diagram 145)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 236",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 C2 d4 (11) __",
+    "answer": "Red wins with 11 F4, making a triple threat (related to Diagram 271)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 237",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 e1 E2 e3 D4 d5 (9) __",
+    "answer": "Red wins with 9 A1, directed at the A1-D4 diagonal (related to Diagram 234)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 238",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 (9) __",
+    "answer": "Red wins with 9G3; G5wouldbe a very useful cell for Red, sohe or she stops Black from capturing it in a push-up play (related to Diagram 17)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 239",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 f4 F5 g2 C2 g3 G4 d5 C3 a1 (19) __",
+    "answer": "Red wins with 19 A2, preventing the Black diagonal threat d5-a2 (related to Diagram 179)."
+  },
+  {
+    "set_name": "Problem Set H (Expert)",
+    "title": "PROBLEM 240",
+    "description": "Red to play",
+    "moves": "D1 f1 F2 d2 D3 d4 F3 d5 E1 c1 F4 f5 D6 a1 (15) __",
+    "answer": "Red wins with 15 A2, blocking Black's second-row threat (related to Diagram 391)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 241",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 c2 F1 e1 F2 f3 E2 e3 D2 g2 D3 d4 E4 d5 C3 c4 C5 f4 E5 (22) __",
+    "answer": "Black wins with 22 d6, eventually establishing a sixth-row horizontal threat (related to Diagram 163)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 242",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 D4 b4 E2 b5 B6 e3 G1 g2 D5 (18) __",
+    "answer": "Black wins with 18 d6, preventing Red diagonal threats at D6-G3 (see Diagram 51)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 243",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 e1 A1 c2 (17) __",
+    "answer": "Red wins with 17 E2, followed by A2 after e3 to destroy Black's second-row horizontal threat (see Diagram 322)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 244",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 B2 b3 E1 f6 (19) __",
+    "answer": "Red wins with 19 G2; Red has a plethora of threats, including the B5-E2 diagonal and the E column; G2 is the way to activate the right side tactically (see Diagram 309)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 245",
+    "description": "Black to play",
+    "moves": "D1 e1 A1 b1 B2 e2 E3 e4 B3 a2 B4 b5 E5 e6 G1 g2 C1 g3 G4 g5 G6 (22) __",
+    "answer": "Black draws with 22 b6 (related to Diagram 361)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 246",
+    "description": "Black to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 C1 e2 E3 (16) __",
+    "answer": "Black wins with 16 d6 (related to Diagram 331)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 247",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 g1 G2 g3 E2 e3 B6 c1 (21) __",
+    "answer": "Red wins with 21 C2, forming the triple threat A3-A4-C5 (related to Diagram 319)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 248",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 E5 d6 B4 b5 G1 g2 C1 (20) __",
+    "answer": "Black draws with 20 f1, preventing a Red threat at C4 (see Diagram 215)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 249",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 E2 (10) __",
+    "answer": "Black wins with 10 b4, blocking Red's A5-D2 diagonal; Red's B2-E5 diagonal is less urgent because Black can undercut it (see Diagram 271)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 250",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 g1 E3 e4 G2 (16) __",
+    "answer": "Black wins with 16 e5, building a major threat at d4 (see Diagram 141)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 251",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 b1 F1 e1 E2 e3 E4 b2 E5 f2 G1 a1 A2 a3 A4 b3 B4 b5 G2 f3 G3 g4 (29) __",
+    "answer": "Red draws with 29 F4, followed by B6 (F4 stops a quick Black win, and also forces Black to spend his turn preventing Red's winning F5 follow-up, so Red gets B6 as well) (see Diagram 126)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 252",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 d2 D3 d4 B1 c1 C2 c3 E2 c4 D5 f1 (15) __",
+    "answer": "Red wins with 15 D6, the D6-G3 diagonal forming part of a sextuple threat (related to Diagram 369)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 253",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 E5 a1 G2 (14) __",
+    "answer": "Black wins with 14 d2, making even-row threats (see Diagram 289)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 254",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 f1 F2 f3 (17) __",
+    "answer": "Red wins with 17 C1, interfering with Black's possible threat at e3 (related to Diagram 300)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 255",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 A2 a3 C1 c2 E5 d4 D5 g1 (17) __",
+    "answer": "Red wins with 17 A4, to deny Black a fourth-row horizontal threat (related to Diagram 226)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 256",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 c1 C2 c3 C4 e2 E3 e4 E5 d2 C5 d3 E6 c6 (17) __",
+    "answer": "Red wins with 17 A2, a temporizing move better than B1 (related to Diagram 367)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 257",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 d6 E1 f1 B1 c1 C2 c3 C4 f2 E2 f3 F4 f5 (19) __",
+    "answer": "Red wins with 19 A1 (related to Diagram 55)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 258",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 F1 g1 C2 c3 (11) __",
+    "answer": "Red wins with 11 C4, building a threat at E2 (related to Diagram 112)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 259",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 F4 f5 A1 d6 A2 b1 F6 g1 (21) __",
+    "answer": "Red wins with 21 E1, aiming at threats on the upper left side (Red's threat at B3 is partly undercut by Black's b2-e5 diagonal) (related to Diagram 198)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 260",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 f2 C2 g1 C3 c4 G2 c5 F3 f4 F5 f6 B1 (16) __",
+    "answer": "Black draws with 16 b2, eliminating Red's second-row tactical threats (related to Diagram 299)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 261",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 c1 G1 e2 C2 c3 G2 g3 E3 g4 (23) __",
+    "answer": "Red wins with 23 G5, depriving Black of a potential threat at f5 (related to Diagram 325)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 262",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 e2 E3 e4 D2 d3 B1 c1 D4 b2 F1 f2 D5 e5 B3 c2 A2 a3 (21) __",
+    "answer": "Red wins with 21 D6, preventing the Black triple threat f5-f4-g3 (related to Diagram 368)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 263",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 d2 F3 f4 D3 d4 B2 d5 F5 a1 C2 b3 C3 c4 A2 c5 D6 (24) __",
+    "answer": "Black wins with 24 a3, forcing the construction of a major threat at a5 or b5 (see Diagram 342)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 264",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 f2 G1 e1 C2 f3 F4 e2 G2 c3 F5 g3 E3 e4 E5 d2 (19) __",
+    "answer": "Red wins with 19 D3, blocking some possible Black left-side threats; victory will come at D5 eventually (related to Diagram 285)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 265",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 E5 a1 A2 f3 F4 f5 E6 a3 (19) __",
+    "answer": "Red wins with 19 A4, avoiding a future Black fourth-row threat (related to Diagram 184)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 266",
+    "description": "Red toplay",
+    "moves": "D1 f1 B1 c1 B2 b3 D2 d3 E1 d4 B4 e2 A1 a2 G1 d5 D6 g2 G3 g4 (21) __",
+    "answer": "Red wins with 21 G5, interfering with Black's possible threats at e5-f5 (related to Diagram 383)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 267",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 c5 F3 f4 A1 a2 F5 e1 A3 a4 (21) __",
+    "answer": "Red wins with 21 G1, racing to capture E6 eventually (see Diagram 208)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 268",
+    "description": "Black to play",
+    "moves": "D1 c1 C2 c3 C4 g1 G2 g3 C5 d2 A1 d3 E1 b1 G4 e2 E3 (18) __",
+    "answer": "Black draws with 18 b2, threatening push-up plays in both columns B and D (related to Diagram 261)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 269",
+    "description": "Red to play",
+    "moves": "D1 f1 F2 d2 D3 d4 F3 d5 F4 f5 B1 c1 B2 b3 D6 b4 B5 e1 F6 b6 (21) __",
+    "answer": "Red wins with 21 G1, the only safe move (related to Diagram 384)."
+  },
+  {
+    "set_name": "Problem Set I (Expert)",
+    "title": "PROBLEM 270",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 C2 g3 G4 c3 D2 g5 F5 d3 A1 a2 A3 a4 C4 c5 (23) __",
+    "answer": "Red draws with 23 C6; Red can't win so just stops Black from getting a winning sixth-row threat (related to Diagram 18)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 271",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 f1 A1 c1 B2 d2 B3 b4 D3 d4 E2 e3 E4 c2 C3 f2 G1 d5 B5 c4 C5 e5 (25) __",
+    "answer": "Red wins with 25 G2, later capturing G5 with a push-up play (related to Diagram 347)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 272",
+    "description": "Black to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 F3 e5 D2 g2 D3 d4 A1 d5 C3 c4 C5 (22) __",
+    "answer": "Black wins with 22 d6, the only way to get an even-row threat (related to Diagram 69)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 273",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 f2 G1 e1 F3 f4 (9) __",
+    "answer": "Red draws with 9 E2; this move loses forcing value if D2 is played first (related to Diagram 82)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 274",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 C5 d6 F4 f5 A1 a2 E1 b1 E2 e3 (23) __",
+    "answer": "Red draws with 23 F6, blocking Black threats e5 and e6 (related to Diagram 216)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 275",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 e1 E2 e3 D4 d5 A1 e4 (11) __",
+    "answer": "Red wins with 11 F1, with B2 or C2 to follow for a left-side win (related to Diagram 231)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 276",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 g1 G2 b3 B4 b5 C6 g3 G4 a2 (21) __",
+    "answer": "Red wins with 21 A3, blocking Black's third-row threat (see Diagram 187)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 277",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 c2 G2 c3 C4 c5 F4 d5 (17) __",
+    "answer": "Red wins with 17 D6; Red already has a triple threat, but d6 would give Black a triple threat of his or her own (related to Diagram 272)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 278",
+    "description": "Red to play",
+    "moves": "D1 c1 C2 c3 C4 g1 G2 g3 C5 d2 A1 d3 (13) __",
+    "answer": "Red draws with 13 E1, blocking Black's b4 threat and preserving a possible future Red counterthreat at B5 (related to Diagram 256)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 279",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 e5 D6 g1 (15) __",
+    "answer": "Red wins with 15 E6, getting a triple threat after B3 (or after B4 and B5 or B6) (see Diagram 210)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 280",
+    "description": "Red to play",
+    "moves": "D1 b1 B2 d2 D3 d4 B3 d5 C1 e1 B4 b5 D6 g1 G2 g3 A1 g4 G5 f1 C2 c3 F2 b6 G6 e2 E3 e4 (29) __",
+    "answer": "Red wins with 29 A2, so that Black c4 can be answered at C5, with a quick win to follow (related to Diagram 248)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 281",
+    "description": "Black to play",
+    "moves": "D1 d2 D3 d4 D5 d6 E1 f1 B1 c1 C2 c3 C4 f2 C5 b2 A1 g1 G2 g3 G4 (22) __",
+    "answer": "Black draws with 22 f3, followed by f5 to block the fifth row (related to Diagram 124)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 282",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 c6 E3 d2 D3 e4 E5 e6 (19) __",
+    "answer": "Red wins with 19 A2, aiming at a B3 threat to undercut Black's threat at b4 (see Diagram 292)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 283",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 g1 (13) __",
+    "answer": "Red wins with 13 G2, preventing a Black second-row threat (see Diagram 288)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 284",
+    "description": "Black to play",
+    "moves": "D1 e1 B1 f1 A1 c1 B2 d2 B3 b4 D3 d4 F2 d5 B5 g1 D6 (18) __",
+    "answer": "Black wins with 18 g2, after which either f3 or f4 gives Black a key major threat (related to Diagram 339)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 285",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 d6 E1 f1 B1 c1 C2 c3 C4 f2 A1 f3 F4 a2 (19) __",
+    "answer": "Red wins with 19 E2, destroying Black's second-row threat (related to Diagram 58)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 286",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 f1 F2 c2 C3 c4 F3 g2 F4 f5 C5 c6 A1 a2 E1 a3 (19) __",
+    "answer": "Red draws with 19 A4 (see Diagram 361)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 287",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 F4 f5 D6 b1 A1 a2 E1 e2 A3 a4 B2 c5 A5 a6 (27) __",
+    "answer": "Red wins with 27 F6, since a Black major threat at e5 would override Red's minor threat there (related to Diagram 204)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 288",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 g1 G2 g3 E2 e3 B6 c1 C2 c3 (23) __",
+    "answer": "Red wins with 23 A2; Red already has a triple threat (A3-A4-C5) on the left side, but the tactical possibility of double check after Red A3 and C4 means that A2 gives Black no time to construct a counterthreat (related to Diagrams 319-21)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 289",
+    "description": "Red to play",
+    "moves": "D1 e1 B1 f1 A1 c1 B2 d2 B3 b4 D3 d4 F2 d5 B5 g1 E2 f3 E3 e4 G2 e5 (23) __",
+    "answer": "Red wins with 23 G3; Black has strong tactical possibilities in the upper right, which Red can destroy only with counterplay involving a column G vertical threat (related to Diagram 341)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 290",
+    "description": "Red to play",
+    "moves": "D1 e1 A1 b1 B2 e2 D2 e3 E4 a2 D3 d4 B3 a3 B4 b5 G1 d5 E5 b6 D6 e6 (23) __",
+    "answer": "Red wins with 23 F1 (related to Diagram 363)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 291",
+    "description": "Black to play",
+    "moves": "D1 e1 E2 e3 E4 e5 B1 g1 A1 c1 A2 g2 F1 c2 A3 a4 C3 c4 C5 f2 F3 e6 A5 (24) __",
+    "answer": "Black draws with 24 d2; if Red plays there, he or she gets a winning, albeit unusual, triple threat (related to Diagram 176)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 292",
+    "description": "Red to play",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 C1 d4 F4 c2 G1 g2 (15) __",
+    "answer": "Red wins with 15 A1, interfering with Black's potential threat along the al-d4 diagonal. B2 would fail since it lets Black get b3, which works well with either c3 or c4 (this position is from the opening shown in Diagram 383)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 293",
+    "description": "Red to play",
+    "moves": "D1 f1 F2 d2 D3 d4 F3 d5 F4 f5 B1 c1 B2 b3 (15) __",
+    "answer": "Red wins with 15 D6; B4 is also a useful cell but would let Black take b5 (related to Diagram 384)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 294",
+    "description": "Black to play",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 a1 A2 a3 C2 c3 F6 e1 A4 e2 E3 (24) __",
+    "answer": "Black wins with 24 a5, building the left-side triple threat b4-b5-c5; by itself the triple threat would be enough only to draw, but Black has other potential threats, for example, on the b3-e6 diagonal (see Diagram 318)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 295",
+    "description": "Red to play",
+    "moves": "D1 b1 B2 d2 D3 d4 B3 d5 C1 b4 F1 e1 F2 f3 D6 f4 (17) __",
+    "answer": "Red wins with 17 F5, with the plethora of threats shown in Diagram 390; B5 is less valuable because Red's disk at F1 renders it redundant for the C4-E2 diagonal."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 296",
+    "description": "Red to play",
+    "moves": "D1 c1 G1 e1 C2 c3 E2 e3 E4 d2 D3 b1 C4 f1 (15) __",
+    "answer": "Red draws with 15 A1, blocking the d4 diagonal and aiming at A1-A2-A3 (related to Diagram 157)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 297",
+    "description": "Red to play",
+    "moves": "D1 f1 F2 d2 D3 d4 B1 c1 B2 b3 (11) __",
+    "answer": "Red wins with 11 F3 to make minor third-row threats (see discussion at Diagram 392)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 298",
+    "description": "Black to play",
+    "moves": "D1 e1 A1 c1 E2 e3 C2 c3 C4 d2 D3 f1 E4 b1 C5 g1 F2 (18) __",
+    "answer": "Black wins with 18 a2, avoiding a Red undercutting threat along the A2-D5 diagonal (see Diagram 160)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 299",
+    "description": "Red to play",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 E5 a1 C3 c4 (15) __",
+    "answer": "Red draws with 15D2, to block the second row and aim at diagonal threat A5-D2 (related to Diagram 140)."
+  },
+  {
+    "set_name": "Problem Set J (Challenger)",
+    "title": "PROBLEM 300",
+    "description": "Red to play",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 b1 F1 e1 E2 e3 E4 b2 (15) __",
+    "answer": "Red wins with 15 C2, destroying Black's second-row horizontal threat (see Diagram 55)."
+  }
+]

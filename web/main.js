@@ -4,8 +4,6 @@ import "./style.css";
 const PLAYER_RED = 1;
 const PLAYER_BLACK = 2;
 const columns = ["A", "B", "C", "D", "E", "F", "G"];
-const levels = ["easy", "medium", "hard", "expert", "challenger"];
-
 const state = {
   game: null,
   mode: "ai",
@@ -14,7 +12,6 @@ const state = {
   aiMs: 350,
   aiStrength: 4,
   problems: [],
-  level: "easy",
   problemIndex: 0,
   activeProblem: null,
   solutionVisible: false,
@@ -24,12 +21,11 @@ const app = document.querySelector("#app");
 
 await init();
 state.game = new Connect4();
-state.problems = await fetch(`${import.meta.env.BASE_URL}problems.json`).then((res) => res.json());
+state.problems = await fetch(`${import.meta.env.BASE_URL}problems_with_answers.json`).then((res) => res.json());
 render();
 
 function render() {
-  const problemList = state.problems.filter((problem) => problem.level === state.level);
-  const currentProblem = problemList[state.problemIndex] ?? problemList[0];
+  const currentProblem = state.problems[state.problemIndex] ?? state.problems[0];
 
   app.innerHTML = `
     <main class="shell">
@@ -85,16 +81,10 @@ function render() {
         </div>
 
         <div class="practice ${state.mode === "practice" ? "" : "muted"}">
-          <div class="control-group">
-            <span class="label">Problem set</span>
-            <div class="level-list">
-              ${levels.map((level) => `<button data-level="${level}" class="${state.level === level ? "active" : ""}" ${state.mode === "practice" ? "" : "disabled"}>${titleCase(level)}</button>`).join("")}
-            </div>
-          </div>
           <label class="select-row">
             <span>Position</span>
             <select data-problem-select ${state.mode === "practice" ? "" : "disabled"}>
-              ${problemList.map((problem, index) => `<option value="${index}" ${index === state.problemIndex ? "selected" : ""}>${problem.title}</option>`).join("")}
+              ${renderProblemOptions()}
             </select>
           </label>
           <div class="problem-copy">
@@ -167,16 +157,6 @@ function bindEvents() {
     });
   });
 
-  app.querySelectorAll("[data-level]").forEach((button) => {
-    button.addEventListener("click", () => {
-      state.level = button.dataset.level;
-      state.problemIndex = 0;
-      state.solutionVisible = false;
-      loadCurrentProblem();
-      render();
-    });
-  });
-
   app.querySelector("[data-problem-select]")?.addEventListener("change", (event) => {
     state.problemIndex = Number(event.target.value);
     state.solutionVisible = false;
@@ -228,7 +208,7 @@ async function runAi() {
 }
 
 function loadCurrentProblem() {
-  const problem = state.problems.filter((entry) => entry.level === state.level)[state.problemIndex];
+  const problem = state.problems[state.problemIndex];
   if (!problem) return;
   const error = state.game.load_moves(problem.moves);
   if (typeof error === "string" && error.length) {
@@ -254,6 +234,27 @@ function parseOutcome(value) {
   return typeof value === "string" ? JSON.parse(value) : value;
 }
 
-function titleCase(value) {
-  return value.charAt(0).toUpperCase() + value.slice(1);
+function renderProblemOptions() {
+  const groups = new Map();
+  state.problems.forEach((problem, index) => {
+    const setName = problem.set_name ?? problem.setName ?? problem.level ?? "Practice Problems";
+    if (!groups.has(setName)) {
+      groups.set(setName, []);
+    }
+    groups.get(setName).push({ problem, index });
+  });
+
+  return [...groups.entries()].map(([setName, entries]) => `
+    <optgroup label="${escapeHtml(setName)}">
+      ${entries.map(({ problem, index }) => `<option value="${index}" ${index === state.problemIndex ? "selected" : ""}>${escapeHtml(problem.title)}</option>`).join("")}
+    </optgroup>
+  `).join("");
+}
+
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
 }

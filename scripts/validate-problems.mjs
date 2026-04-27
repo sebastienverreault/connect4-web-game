@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 
 const rows = 6;
 const cols = 7;
-const problems = JSON.parse(await fs.readFile("public/problems.json", "utf8"));
+const problems = JSON.parse(await fs.readFile("public/problems_with_answers.json", "utf8"));
 let valid = true;
 
 function idx(row, col) {
@@ -17,7 +17,7 @@ for (const problem of problems) {
   const board = Array(rows * cols).fill(0);
   for (const rawToken of problem.moves.split(/\s+/)) {
     const token = rawToken.trim();
-    if (!token || token === "_" || /^\(.+\)$/.test(token)) {
+    if (!token || token.split("").every((char) => char === "_") || /^\(.+\)$/.test(token)) {
       break;
     }
 

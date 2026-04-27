@@ -72,7 +72,7 @@ Deploy the contents of `dist/` to any static host. The host must serve `.wasm` f
 Content-Type: application/wasm
 ```
 
-The app fetches `problems.json` from the deployed public root, so make sure `dist/problems.json` is included with the deployment.
+The app fetches `problems_with_answers.json` from the deployed public root, so make sure `dist/problems_with_answers.json` is included with the deployment.
 
 For a quick local production preview:
 
@@ -94,13 +94,13 @@ If Pages is not enabled yet, set the Pages source to `GitHub Actions` in the rep
 
 ## Practice Problems
 
-Practice problems live in [public/problems.json](public/problems.json). The file is a JSON array:
+Practice problems live in [public/problems_with_answers.json](public/problems_with_answers.json). The file is a JSON array:
 
 ```json
 [
   {
     "title": "Easy 1",
-    "level": "easy",
+    "set_name": "Custom",
     "description": "Red to play. Finish the vertical threat.",
     "moves": "D1 c1 D2 c2 D3 _",
     "answer": "Play D4 to connect four vertically."
@@ -111,7 +111,8 @@ Practice problems live in [public/problems.json](public/problems.json). The file
 Fields:
 
 - `title`: Display name in the practice selector.
-- `level`: One of `easy`, `medium`, `hard`, `expert`, or `challenger`.
+- `set_name`: Category used to group problems in the position dropdown.
+- `level`: Optional legacy difficulty label such as `easy`, `medium`, `hard`, `expert`, or `challenger`.
 - `description`: Short prompt shown to the player.
 - `moves`: Space-separated move list used to pre-fill the board.
 - `answer`: Text shown when the player asks for the answer.
@@ -122,7 +123,7 @@ Move notation:
 - The number is the row: `1` through `6`, counted from the bottom.
 - Uppercase column letters are Red moves.
 - Lowercase column letters are Yellow moves.
-- `_` marks the point where the player should solve.
+- `_` or `__` marks the point where the player should solve.
 - Parenthesized tokens like `(15)` are ignored and may be used as comments or move-count markers.
 
 Example:
@@ -157,6 +158,6 @@ Ambiguous OCR records are skipped and reported in [docs/book-ocr-review.md](docs
 - [src/lib.rs](src/lib.rs): Rust board logic, puzzle loading, win detection, and AI search.
 - [web/main.js](web/main.js): Browser UI and interaction wiring.
 - [web/style.css](web/style.css): Board and app styling.
-- [public/problems.json](public/problems.json): Practice problem database.
+- [public/problems_with_answers.json](public/problems_with_answers.json): Practice problem database.
 - [pkg/](pkg): Generated WebAssembly package from `wasm-pack`.
 - [dist/](dist): Production build output from Vite.

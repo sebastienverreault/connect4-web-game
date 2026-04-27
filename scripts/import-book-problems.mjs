@@ -3,14 +3,14 @@ import fs from "node:fs";
 
 const sourcePdf = "book/Connect4-Ch01-02_recognized_1.pdf";
 const answerPdf = "book/Connect4-Glossary_recognized_1.pdf";
-const outputPath = "public/problems.json";
+const outputPath = "public/problems_with_answers.json";
 const reviewPath = "docs/book-ocr-review.md";
 const rows = 6;
 const cols = 7;
 
-const baseProblems = JSON.parse(fs.readFileSync(outputPath, "utf8")).filter(
-  (problem) => !problem.source?.startsWith("The Complete Book of Connect 4"),
-);
+const existingProblems = fs.existsSync(outputPath)
+  ? JSON.parse(fs.readFileSync(outputPath, "utf8"))
+  : [];
 
 const rawText = execFileSync("pdftotext", ["-raw", sourcePdf, "-"], {
   encoding: "utf8",
@@ -35,7 +35,8 @@ for (const problem of parsed) {
   const moveCount = tokens.filter((token) => token !== "_").length;
   const side = moveCount % 2 === 0 ? "Red" : "Yellow";
   imported.push({
-    title: `Book Problem ${problem.num}`,
+    set_name: problem.setName,
+    title: `PROBLEM ${problem.num}`,
     level: problem.level,
     description: `${side} to play. Imported from Chapter 2 problem set.`,
     moves: `${tokens.join(" ")} _`.replace(/\s+_\s+_$/, " _"),
@@ -48,7 +49,8 @@ for (const problem of parsed) {
 }
 
 imported.sort((a, b) => a.sourceProblem - b.sourceProblem);
-fs.writeFileSync(outputPath, `${JSON.stringify([...baseProblems, ...imported], null, 2)}\n`);
+const mergedProblems = mergeProblems(existingProblems, imported);
+fs.writeFileSync(outputPath, `${JSON.stringify(mergedProblems, null, 2)}\n`);
 writeReviewFile(skipped, answers);
 
 console.log(`parsed ${parsed.length} OCR problem records`);
@@ -63,6 +65,7 @@ function parseRawProblems(text) {
   const lines = text.split("\n");
   const problems = [];
   let level = null;
+  let setName = null;
   let current = null;
   let multi = null;
 
@@ -86,11 +89,13 @@ function parseRawProblems(text) {
 
   for (const rawLine of lines) {
     const line = rawLine.trim();
-    const setMatch = line.match(/Problem Set\s+.+?\s*\((Easy|Medium|Hard|Expert|Challenger)\)/i);
+    const setMatch = line.match(/Problem Set\s+(.+?)\s*\((Easy|Medium|Hard|Expert|Challenger)\)/i);
     if (setMatch) {
       finishCurrent();
       finishMulti();
-      level = setMatch[1].toLowerCase();
+      const setLetter = setMatch[1].trim() === "|" ? "I" : setMatch[1].trim();
+      level = setMatch[2].toLowerCase();
+      setName = `Problem Set ${setLetter} (${setMatch[2][0].toUpperCase()}${setMatch[2].slice(1).toLowerCase()})`;
       continue;
     }
     if (!level) {
@@ -101,13 +106,13 @@ function parseRawProblems(text) {
     if (problemNumbers.length === 1) {
       finishCurrent();
       finishMulti();
-      current = { num: problemNumbers[0], level, movesRaw: "" };
+      current = { num: problemNumbers[0], level, setName, movesRaw: "" };
       continue;
     }
     if (problemNumbers.length > 1) {
       finishCurrent();
       finishMulti();
-      multi = problemNumbers.map((num) => ({ num, level, movesRaw: "" }));
+      multi = problemNumbers.map((num) => ({ num, level, setName, movesRaw: "" }));
       continue;
     }
 
@@ -164,6 +169,38 @@ function dedupeByProblemNumber(problems) {
     byNumber.set(problem.num, problem);
   }
   return [...byNumber.values()].sort((a, b) => a.num - b.num);
+}
+
+function mergeProblems(existingProblems, importedProblems) {
+  const byKey = new Map();
+  for (const problem of existingProblems) {
+    byKey.set(problemKey(problem), problem);
+  }
+
+  for (const problem of importedProblems) {
+    const key = problemKey(problem);
+    if (!byKey.has(key)) {
+      byKey.set(key, problem);
+    }
+  }
+
+  return [...byKey.values()].sort((a, b) => {
+    const setCompare = String(a.set_name ?? "").localeCompare(String(b.set_name ?? ""), undefined, {
+      numeric: true,
+    });
+    if (setCompare !== 0) {
+      return setCompare;
+    }
+    return problemNumber(a) - problemNumber(b);
+  });
+}
+
+function problemKey(problem) {
+  return `${problem.set_name ?? problem.setName ?? ""}::${problem.title ?? ""}`;
+}
+
+function problemNumber(problem) {
+  return Number(problem.sourceProblem ?? String(problem.title ?? "").match(/\d+/)?.[0] ?? 0);
 }
 
 function normalizeMoves(text) {
