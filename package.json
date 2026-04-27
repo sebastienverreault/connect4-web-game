@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "npm run build:wasm && vite build",
+    "build:wasm": "wasm-pack build --target web --out-dir pkg",
+    "dev": "npm run build:wasm && vite --host 0.0.0.0",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-basic-ssl": "^2.1.0",
+    "vite": "^7.1.12"
+  },
+  "devDependencies": {}
+}
