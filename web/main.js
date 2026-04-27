@@ -149,9 +149,24 @@ function bindEvents() {
 
   app.querySelectorAll("[data-mode]").forEach((button) => {
     button.addEventListener("click", () => {
-      state.mode = button.dataset.mode;
+      const previousMode = state.mode;
+      const nextMode = button.dataset.mode;
+      const continuePracticePosition = previousMode === "practice" && nextMode === "ai";
+
+      state.mode = nextMode;
       state.solutionVisible = false;
+
+      if (continuePracticePosition) {
+        state.aiPlayer = state.game.current_player();
+        render();
+        maybeRunAiTurn();
+        return;
+      }
+
       state.game.reset();
+      if (state.mode === "ai") {
+        state.aiPlayer = PLAYER_BLACK;
+      }
       if (state.mode === "practice") {
         selectFirstProblemInSet();
         loadCurrentProblem();
@@ -185,6 +200,9 @@ function bindEvents() {
   app.querySelector("[data-action='reset']")?.addEventListener("click", () => {
     state.solutionVisible = false;
     state.game.reset();
+    if (state.mode === "ai") {
+      state.aiPlayer = PLAYER_BLACK;
+    }
     if (state.mode === "practice") {
       loadCurrentProblem();
     }
@@ -218,9 +236,7 @@ function handleColumn(col) {
   }
   render();
 
-  if (state.mode === "ai" && !state.game.winner() && !state.game.is_draw() && state.game.current_player() === state.aiPlayer) {
-    runAi();
-  }
+  maybeRunAiTurn();
 }
 
 async function runAi() {
@@ -230,6 +246,12 @@ async function runAi() {
   state.game.ai_move(state.aiMs, state.aiStrength);
   state.aiThinking = false;
   render();
+}
+
+function maybeRunAiTurn() {
+  if (state.mode === "ai" && !state.game.winner() && !state.game.is_draw() && state.game.current_player() === state.aiPlayer) {
+    runAi();
+  }
 }
 
 function loadCurrentProblem() {
