@@ -24,7 +24,7 @@ const app = document.querySelector("#app");
 
 await init();
 state.game = new Connect4();
-state.problems = await fetch("/problems.json").then((res) => res.json());
+state.problems = await fetch(`${import.meta.env.BASE_URL}problems.json`).then((res) => res.json());
 render();
 
 function render() {

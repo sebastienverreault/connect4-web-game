@@ -80,6 +80,18 @@ For a quick local production preview:
 make preview
 ```
 
+### GitHub Pages
+
+The repository includes a GitHub Actions workflow at `.github/workflows/deploy-pages.yml`. On every push to `main`, it builds the Rust/WASM app and publishes `dist/` to GitHub Pages.
+
+The app uses a relative Vite base path, so it works from a project Pages URL such as:
+
+```text
+https://sebastienverreault.github.io/connect4-web-game/
+```
+
+If Pages is not enabled yet, set the Pages source to `GitHub Actions` in the repository settings.
+
 ## Practice Problems
 
 Practice problems live in [public/problems.json](public/problems.json). The file is a JSON array:
