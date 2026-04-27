@@ -83,12 +83,12 @@ function render() {
         </div>
 
         <div class="practice ${state.mode === "practice" ? "" : "muted"}">
-          <div class="control-group">
-            <span class="label">Problem set</span>
-            <div class="set-list">
-              ${renderSetButtons()}
-            </div>
-          </div>
+          <label class="select-row">
+            <span>Problem set</span>
+            <select data-set-select ${state.mode === "practice" ? "" : "disabled"}>
+              ${renderSetOptions()}
+            </select>
+          </label>
           <label class="select-row">
             <span>Position</span>
             <select data-problem-select ${state.mode === "practice" ? "" : "disabled"}>
@@ -166,14 +166,12 @@ function bindEvents() {
     });
   });
 
-  app.querySelectorAll("[data-set-name]").forEach((button) => {
-    button.addEventListener("click", () => {
-      state.selectedSetName = button.dataset.setName;
-      state.solutionVisible = false;
-      selectFirstProblemInSet();
-      loadCurrentProblem();
-      render();
-    });
+  app.querySelector("[data-set-select]")?.addEventListener("change", (event) => {
+    state.selectedSetName = event.target.value;
+    state.solutionVisible = false;
+    selectFirstProblemInSet();
+    loadCurrentProblem();
+    render();
   });
 
   app.querySelector("[data-problem-select]")?.addEventListener("change", (event) => {
@@ -259,9 +257,9 @@ function renderProblemOptions() {
     .join("");
 }
 
-function renderSetButtons() {
+function renderSetOptions() {
   return problemSetNames()
-    .map((setName) => `<button data-set-name="${escapeHtml(setName)}" class="${setName === state.selectedSetName ? "active" : ""}" ${state.mode === "practice" ? "" : "disabled"}>${escapeHtml(setName)}</button>`)
+    .map((setName) => `<option value="${escapeHtml(setName)}" ${setName === state.selectedSetName ? "selected" : ""}>${escapeHtml(setName)}</option>`)
     .join("");
 }
 
