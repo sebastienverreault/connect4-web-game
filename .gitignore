@@ -10,6 +10,9 @@ pkg/
 # Vite production output
 dist/
 
+# Local source book files used by the importer
+book/
+
 # Local environment and logs
 .env
 .env.*

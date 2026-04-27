@@ -33,5 +33,2174 @@
     "description": "Red to play. Find the forcing move.",
     "moves": "D1 d2 C1 e1 E2 c2 B1 f1 C3 b2 F2 e3 _",
     "answer": "Play D3 to threaten both D4 and G3 paths."
+  },
+  {
+    "title": "Book Problem 1",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 b1 E1 g1 F2 d2 F3 f4 D3 d4 C2 c3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 1
+  },
+  {
+    "title": "Book Problem 3",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 E5 d6 B4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 3
+  },
+  {
+    "title": "Book Problem 4",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 c1 E2 e3 C2 c3 C4 d2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 4
+  },
+  {
+    "title": "Book Problem 5",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 g1 F1 f2 D3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 5
+  },
+  {
+    "title": "Book Problem 6",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 B3 d2 B4 c1 D3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 6
+  },
+  {
+    "title": "Book Problem 7",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 C1 d4 F4 c2 D5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 7
+  },
+  {
+    "title": "Book Problem 8",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 B2 b3 E1 b4 B5 b6 E2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 8
+  },
+  {
+    "title": "Book Problem 9",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 D4 c2 G1 e1 D5 d6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 9
+  },
+  {
+    "title": "Book Problem 11",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 g1 G2 g3 C5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 11
+  },
+  {
+    "title": "Book Problem 13",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 d2 C5 e1 B1 a1 E2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 13
+  },
+  {
+    "title": "Book Problem 14",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 C2 e4 E5 d2 D3 d4 A1 d5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 14
+  },
+  {
+    "title": "Book Problem 15",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 c2 C3 c4 D2 d3 F1 e1 D4 f2 B1 b2 D5 c5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 15
+  },
+  {
+    "title": "Book Problem 16",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 E1 c1 C2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 16
+  },
+  {
+    "title": "Book Problem 17",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 G1 e1 G2 a2 G3 g4 F2 e2 F3 f4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 17
+  },
+  {
+    "title": "Book Problem 18",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 D2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 18
+  },
+  {
+    "title": "Book Problem 19",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 b1 B2 d4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 19
+  },
+  {
+    "title": "Book Problem 20",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 E5 d6 B4 b5 G1 g2 G3 b6 F1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 20
+  },
+  {
+    "title": "Book Problem 21",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 c2 D2 c3 C4 g2 D3 d4 F3 g3 F4 f5 A1 d5 C5 f6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 21
+  },
+  {
+    "title": "Book Problem 22",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 B1 a1 B2 g1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 22
+  },
+  {
+    "title": "Book Problem 23",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 F1 g1 B2 d2 D3 d4 B3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 23
+  },
+  {
+    "title": "Book Problem 24",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 G1 e1 G2 a2 B1 e2 G3 g4 E3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 24
+  },
+  {
+    "title": "Book Problem 25",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 C2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 25
+  },
+  {
+    "title": "Book Problem 26",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 d3 F1 f2 G1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 26
+  },
+  {
+    "title": "Book Problem 27",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 F1 G1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 27
+  },
+  {
+    "title": "Book Problem 28",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "C1 c2 B1 d1 B2 f1 D2 d3 B3 b4 B5 d4 C3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 28
+  },
+  {
+    "title": "Book Problem 29",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "C1 c2 B1 d1 B2 b3 C3 d2 B4 g1 B5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 29
+  },
+  {
+    "title": "Book Problem 30",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 C2 c3 D4 d5 G1 c4 F1 e1 F2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 30
+  },
+  {
+    "title": "Book Problem 31",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 C4 d3 E2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 31
+  },
+  {
+    "title": "Book Problem 32",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 b1 B2 b3 F1 e1 B4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 32
+  },
+  {
+    "title": "Book Problem 33",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 C1 d4 F4 c2 C3 d5 D6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 33
+  },
+  {
+    "title": "Book Problem 34",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 A2 d3 E2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 34
+  },
+  {
+    "title": "Book Problem 35",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 d2 A1 c3 C4 g1 F1 f2 E1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 35
+  },
+  {
+    "title": "Book Problem 36",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 D4 g1 E2 g2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 36
+  },
+  {
+    "title": "Book Problem 38",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 G1 e1 G2 a2 B1 e2 G3 g4 E3 e4 E5 g5 E6 c6 A3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 38
+  },
+  {
+    "title": "Book Problem 39",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 F2 d2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 39
+  },
+  {
+    "title": "Book Problem 40",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 B2 c4 F1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 40
+  },
+  {
+    "title": "Book Problem 41",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 E2 a1 E3 e4 A2 e5 B3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 41
+  },
+  {
+    "title": "Book Problem 42",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 a1 B2 b3 B4 a2 A3 e2 E3 e4 D2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 42
+  },
+  {
+    "title": "Book Problem 43",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 b1 B2 b3 B4 b5 E1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 43
+  },
+  {
+    "title": "Book Problem 45",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 d2 F3 f4 D3 d4 C2 c3 C4 e2 E3 b2 A1 d5 F5 e4 E5 c5 A2 b3 B4 b5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 45
+  },
+  {
+    "title": "Book Problem 46",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 G1 b2 F1 e1 D2 d3 E2 e3 E4 d4 D5 b3 B4 b5 A1 E5 g2 G3 g4 E6 B6 g5 G6 d6 A2 a3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 46
+  },
+  {
+    "title": "Book Problem 47",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 A1 d3 A2 e1 F1 f2 G1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 47
+  },
+  {
+    "title": "Book Problem 48",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 f3 D2 e2 D3 d4 E3 f4 E4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 48
+  },
+  {
+    "title": "Book Problem 49",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 a1 B2 b3 B4 a2 A3 e2 E3 e4 A4 a5 E5 b5 D2 c1 D3 d4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 49
+  },
+  {
+    "title": "Book Problem 50",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 B3 b4 B5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 50
+  },
+  {
+    "title": "Book Problem 51",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 a2 B2 b3 E2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 51
+  },
+  {
+    "title": "Book Problem 52",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 a1 D2 d3 D4 a2 F1 c1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 52
+  },
+  {
+    "title": "Book Problem 53",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 53
+  },
+  {
+    "title": "Book Problem 54",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 C2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 54
+  },
+  {
+    "title": "Book Problem 55",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 D2 e3 E4 d3 B3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 55
+  },
+  {
+    "title": "Book Problem 56",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 a1 E1 c1 C2 c3 C4 c5 A2 a3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 56
+  },
+  {
+    "title": "Book Problem 57",
+    "level": "easy",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 c6 A2 b3 B4 b5 E3 e4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 57
+  },
+  {
+    "title": "Book Problem 58",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 e2 B1 c1 B2 b3 C2 c3 D2 a2 D3 d4 C4 d5 B4 c5 B5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 58
+  },
+  {
+    "title": "Book Problem 59",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 A2 e2 C4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 59
+  },
+  {
+    "title": "Book Problem 60",
+    "level": "easy",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 E1 c1 C2 c3 E2 c4 E3 e4 G1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 60
+  },
+  {
+    "title": "Book Problem 61",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 E5 e6 C3 d2 D3 c4 C5 c6 B1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 61
+  },
+  {
+    "title": "Book Problem 62",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 B2 d2 D3 d4 F1 F2 f3 B3 d5 B4 b5 F4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 62
+  },
+  {
+    "title": "Book Problem 64",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 e5 A1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 64
+  },
+  {
+    "title": "Book Problem 65",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 g1 G2 g3 E1 e2 C5 a1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 65
+  },
+  {
+    "title": "Book Problem 67",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 F1 g1 B2 d2 D3 d4 B3 f2 G2 f3 E1 c1 C2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 67
+  },
+  {
+    "title": "Book Problem 68",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 b1 B2 b3 E1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 68
+  },
+  {
+    "title": "Book Problem 71",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 D4 d5 B1 e4 A1 c1 B2 e5 E6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 71
+  },
+  {
+    "title": "Book Problem 72",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 B1 a2 A3 b2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 72
+  },
+  {
+    "title": "Book Problem 73",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 C2 e4 E5 f3 F4 f5 C3 c4 C5 f6 A1 c6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 73
+  },
+  {
+    "title": "Book Problem 74",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 g1 G2 g3 E1 e2 C5 a1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 74
+  },
+  {
+    "title": "Book Problem 76",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 C2 d3 F1 e2 F2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 76
+  },
+  {
+    "title": "Book Problem 77",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "C1 c2 A1 e1 D1 b1 C3 e2 E3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 77
+  },
+  {
+    "title": "Book Problem 78",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 B3 b4 C2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 78
+  },
+  {
+    "title": "Book Problem 80",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 C1 e1 E2 e3 C2 e4 C3 c4 A1 b1 A2 e5 E6 d5 A3 a4 C5 d6 g1 G2 a5 G3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 80
+  },
+  {
+    "title": "Book Problem 82",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 e1 E2 e3 E4 c2 C3 c4 D2 d3 C5 e5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 82
+  },
+  {
+    "title": "Book Problem 83",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 b1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 83
+  },
+  {
+    "title": "Book Problem 84",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 G1 d2 A1 A2 f1 F2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 84
+  },
+  {
+    "title": "Book Problem 85",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 E1 c2 C3 d6 C4 c5 C6 G2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 85
+  },
+  {
+    "title": "Book Problem 86",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 B2 e1 A1 b3 B4 b5 A2 a3 B6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 86
+  },
+  {
+    "title": "Book Problem 88",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 e2 G1 e3 E4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 88
+  },
+  {
+    "title": "Book Problem 89",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 g1 G2 b3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 89
+  },
+  {
+    "title": "Book Problem 90",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 90
+  },
+  {
+    "title": "Book Problem 91",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 c2 D2 c3 C4 g2 D3 d4 F3 g3 F4 f5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 91
+  },
+  {
+    "title": "Book Problem 92",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 d6 E1 f1 B1 c1 C2 c3 C4 f2 A1 f3 F4 e2 E3 e4 A2 e5 B2 b3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 92
+  },
+  {
+    "title": "Book Problem 93",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 f1 F2 d2 D3 d4 F3 d5 F4 f5 E1 c1 D6 a1 G1 c2 C3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 93
+  },
+  {
+    "title": "Book Problem 94",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 f1 B1 c1 B2 d2 B3 b4 D3 d4 F2 d5 F3 f4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 94
+  },
+  {
+    "title": "Book Problem 95",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 D4 a2 C1 c2 D5 d6 G1 g2 G3 g4 G5 e5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 95
+  },
+  {
+    "title": "Book Problem 97",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 E2 e3 E4 e5 B1 g1 A1 c1 A2 F1 c2 A3 a4 C3 c4 C5 c6 A5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 97
+  },
+  {
+    "title": "Book Problem 98",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 f1 B1 c1 B2 b3 D2 d3 E1 d4 B4 e2 G1 d5 D6 g2 G3 g4 G5 e3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 98
+  },
+  {
+    "title": "Book Problem 99",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 B3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 99
+  },
+  {
+    "title": "Book Problem 100",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 B2 d2 D3 d4 F1 e1 F2 f3 B3 d5 B4 b5 D6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 100
+  },
+  {
+    "title": "Book Problem 101",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 d2 F3 f4 D3 d4 B2 d5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 101
+  },
+  {
+    "title": "Book Problem 102",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 e2 B3 e3 E4 d2 B4 b5 D3 d4 D5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 102
+  },
+  {
+    "title": "Book Problem 103",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 D4 a2 A3 e2 F1 d5 E3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 103
+  },
+  {
+    "title": "Book Problem 104",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 c2 C3 g2 G3 f4 D5 c4 F5 c5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 104
+  },
+  {
+    "title": "Book Problem 105",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 D4 a2 A3 e2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 105
+  },
+  {
+    "title": "Book Problem 106",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 F4 f5 B1 c1 C2 c3 A1 d6 C4 b2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 106
+  },
+  {
+    "title": "Book Problem 107",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 D2 d3 D4 c2 G2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 107
+  },
+  {
+    "title": "Book Problem 108",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 F4 f5 D6 a1 F6 c5 E1 e2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 108
+  },
+  {
+    "title": "Book Problem 111",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 c1 F1 c2 G1 e1 E2 e3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 111
+  },
+  {
+    "title": "Book Problem 112",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 D5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 112
+  },
+  {
+    "title": "Book Problem 113",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 c1 F1 c2 F2 f3 F4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 113
+  },
+  {
+    "title": "Book Problem 114",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 a1 D2 d3 D4 b1 E1 a2 D5 c1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 114
+  },
+  {
+    "title": "Book Problem 115",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 c1 C2 c3 C4 d2 D3 e2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 115
+  },
+  {
+    "title": "Book Problem 117",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 B1 a1 C1 e1 C2 c3 B2 d6 F4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 117
+  },
+  {
+    "title": "Book Problem 120",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 E3 e4 E5 d2 C5 g1 G2 d3 E6 g3 C6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 120
+  },
+  {
+    "title": "Book Problem 121",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 B3 c5 D2 d3 A2 b4 E3 b5 A3 a4 A5 B6 g1 G2 g3 G4 g5 G6 A6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 121
+  },
+  {
+    "title": "Book Problem 122",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 D4 a2 A3 e2 E3 b4 D5 b5 B6 c1 C2 d6 F1 f2 F3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 122
+  },
+  {
+    "title": "Book Problem 123",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 e2 D2 e3 E4 a2 D3 d4 B3 a3 B4 b5 G1 d5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 123
+  },
+  {
+    "title": "Book Problem 124",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 a1 D2 d3 G1 f1 F2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 124
+  },
+  {
+    "title": "Book Problem 127",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 127
+  },
+  {
+    "title": "Book Problem 128",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 D4 c2 C3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 128
+  },
+  {
+    "title": "Book Problem 130",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 e5 A1 b1 B2 d4 B3 b4 D5 b5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 130
+  },
+  {
+    "title": "Book Problem 131",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 e1 E2 e3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 131
+  },
+  {
+    "title": "Book Problem 132",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 C2 c3 D4 d5 G1 e1 G2 g3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 132
+  },
+  {
+    "title": "Book Problem 133",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 d3 G1 a2 B2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 133
+  },
+  {
+    "title": "Book Problem 134",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 c5 F1 a1 A2 e1 G1 g2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 134
+  },
+  {
+    "title": "Book Problem 135",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 a1 B2 b3 B4 a2 A3 e2 E3 b5 E4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 135
+  },
+  {
+    "title": "Book Problem 137",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 D6 g1 B6 c1 E5 e6 G2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 137
+  },
+  {
+    "title": "Book Problem 138",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 F4 b1 B2 b3 B4 f5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 138
+  },
+  {
+    "title": "Book Problem 139",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 c2 F2 f3 D2 c3 C4 g1 D3 d4 D5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 139
+  },
+  {
+    "title": "Book Problem 140",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 D2 d3 D4 c2 C3 d5 B1 b2 D6 b3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 140
+  },
+  {
+    "title": "Book Problem 141",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 D6 b1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 141
+  },
+  {
+    "title": "Book Problem 142",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 G3 c2 C3 c4 G4 g5 C5 f5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 142
+  },
+  {
+    "title": "Book Problem 143",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 e1 A1 c2 C3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 143
+  },
+  {
+    "title": "Book Problem 144",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 a1 B2 b3 B4 a2 A3 e2 E3 e4 E5 d2 B5 g1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 144
+  },
+  {
+    "title": "Book Problem 145",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 B2 b3 D2 a1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 145
+  },
+  {
+    "title": "Book Problem 146",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 c2 F2 f3 D2 c3 C4 g1 D3 d4 F4 g2 D5 g3 G4 g5 C5 f5 E1 e2 A1 a2 D6 a3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 146
+  },
+  {
+    "title": "Book Problem 147",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 d2 F3 f4 D3 d4 C2 c3 C4 e2 E3 b2 A1 d5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 147
+  },
+  {
+    "title": "Book Problem 148",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 f1 F2 c1 A2 f3 F4 f5 A3 a4 F6 e2 A5 b6 E3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 148
+  },
+  {
+    "title": "Book Problem 149",
+    "level": "medium",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 G1 d6 F1 g2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 149
+  },
+  {
+    "title": "Book Problem 150",
+    "level": "medium",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 g1 G2 g3 C5 d2 A1 d3 E1 b1 G4 e2 E3 b2 B3 b4 A2 c6 G5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 150
+  },
+  {
+    "title": "Book Problem 151",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 D4 d5 c1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 151
+  },
+  {
+    "title": "Book Problem 152",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 D2 d3 D4 d5 C4 d6 G1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 152
+  },
+  {
+    "title": "Book Problem 153",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 B1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 153
+  },
+  {
+    "title": "Book Problem 154",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 d2 A1 c3 C4 d3 A2 a3 B1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 154
+  },
+  {
+    "title": "Book Problem 155",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 f4 C2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 155
+  },
+  {
+    "title": "Book Problem 156",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 G1 d6 F1 g2 C1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 156
+  },
+  {
+    "title": "Book Problem 157",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 C2 e4 E5 d2 D3 d4 D5 d6 A1 b1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 157
+  },
+  {
+    "title": "Book Problem 158",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 G1 d3 D4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 158
+  },
+  {
+    "title": "Book Problem 159",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 E2 e3 E4 e5 B1 g1 A1 c1 A2 g2 F1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 159
+  },
+  {
+    "title": "Book Problem 160",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 E3 e4 E5 d2 C5 g1 G2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 160
+  },
+  {
+    "title": "Book Problem 161",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 c1 E2 e3 C2 c3 C4 f1 D2 f2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 161
+  },
+  {
+    "title": "Book Problem 163",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 C2 c3 C4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 163
+  },
+  {
+    "title": "Book Problem 164",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 G1 d6 F1 g2 C1 f2 E5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 164
+  },
+  {
+    "title": "Book Problem 167",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 E2 b3 B4 c2 A2 e3 B5 a3 C3 c4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 167
+  },
+  {
+    "title": "Book Problem 169",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 c2 C3 c4 D2 d3 F1 e1 D4 f2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 169
+  },
+  {
+    "title": "Book Problem 170",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 b1 F1 e1 C2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 170
+  },
+  {
+    "title": "Book Problem 172",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 172
+  },
+  {
+    "title": "Book Problem 173",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 F3 e5 D2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 173
+  },
+  {
+    "title": "Book Problem 174",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 c3 G1 c4 C5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 174
+  },
+  {
+    "title": "Book Problem 175",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 B1 a1 E2 e3 E4 e5 G1 g2 G3 g4 G5 g6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 175
+  },
+  {
+    "title": "Book Problem 177",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 C2 c3 D4 d5 G1 c4 F1 e1 F2 c5 C6 b1 D6 a1 A2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 177
+  },
+  {
+    "title": "Book Problem 178",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 A1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 178
+  },
+  {
+    "title": "Book Problem 179",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 A1 d3 A2 b1 C1 c2 G1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 179
+  },
+  {
+    "title": "Book Problem 180",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 a2 A3 b3 B4 b5 E3 e4 F1 e5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 180
+  },
+  {
+    "title": "Book Problem 181",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 c1 C2 c3 C4 e2 E3 e4 D2 d3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 181
+  },
+  {
+    "title": "Book Problem 182",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 B3 a1 C1 d2 A2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 182
+  },
+  {
+    "title": "Book Problem 183",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 B1 c1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 183
+  },
+  {
+    "title": "Book Problem 184",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 c6 A2 b3 B4 b5 E3 e4 A3 a4 B6 e5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 184
+  },
+  {
+    "title": "Book Problem 185",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 C5 d6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 185
+  },
+  {
+    "title": "Book Problem 187",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 e1 C2 c3 E2 e3 E4 b1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 187
+  },
+  {
+    "title": "Book Problem 188",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 c1 G1 e2 E3 g2 E4 e5 G3 B6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 188
+  },
+  {
+    "title": "Book Problem 189",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 A2 a3 C1 c2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 189
+  },
+  {
+    "title": "Book Problem 190",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 190
+  },
+  {
+    "title": "Book Problem 191",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 e1 E2 c2 E3 c3 A1 b1 B2 c4 C5 e4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 191
+  },
+  {
+    "title": "Book Problem 192",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 f4 C2 f5 F6 c3 A1 a2 D5 g2 A3 a4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 192
+  },
+  {
+    "title": "Book Problem 193",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 c2 C3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 193
+  },
+  {
+    "title": "Book Problem 195",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 C2 c3 B1 a1 G1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 195
+  },
+  {
+    "title": "Book Problem 196",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 a1 A2 a3 C2 c3 e1 A4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 196
+  },
+  {
+    "title": "Book Problem 199",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 A1 d3 A2 a3 B1 c1 E1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 199
+  },
+  {
+    "title": "Book Problem 200",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 A2 a3 C1 d4 D5 b1 C2 c3 B2 c4 C5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 200
+  },
+  {
+    "title": "Book Problem 203",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 b1 A3 a4 E5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 203
+  },
+  {
+    "title": "Book Problem 204",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 C1 e1 A1 b1 C2 a2 B2 c3 F1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 204
+  },
+  {
+    "title": "Book Problem 205",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 E5 b2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 205
+  },
+  {
+    "title": "Book Problem 207",
+    "level": "hard",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 B2 e1 G2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 207
+  },
+  {
+    "title": "Book Problem 208",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 D2 d3 D4 c2 C3 d5 A1 a2 C4 f1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 208
+  },
+  {
+    "title": "Book Problem 209",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 g1 G2 g3 E1 d4 E2 f1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 209
+  },
+  {
+    "title": "Book Problem 210",
+    "level": "hard",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 G3 c2 C3 f5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 210
+  },
+  {
+    "title": "Book Problem 211",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 B2 d2 D3 d4 B3 d5 B4 b5 C1 e1 D6 g1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 211
+  },
+  {
+    "title": "Book Problem 212",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 212
+  },
+  {
+    "title": "Book Problem 213",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 F4 f5 D6 a1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 213
+  },
+  {
+    "title": "Book Problem 214",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 a3 E5 d2 G1 d3 C1 g2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 214
+  },
+  {
+    "title": "Book Problem 215",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 A1 b1 B2 d4 B3 b4 D5 b5 G1 g2 C1 d6 B6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 215
+  },
+  {
+    "title": "Book Problem 216",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 F3 d2 D3 g1 C2 g2 C3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 216
+  },
+  {
+    "title": "Book Problem 217",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 A2 a3 E5 d4 D5 g1 B1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 217
+  },
+  {
+    "title": "Book Problem 218",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 f1 F2 d2 D3 d4 B1 c1 B2 b3 F3 d5 F4 f5 D6 b4 B5 e1 G1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 218
+  },
+  {
+    "title": "Book Problem 220",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 B4 b5 G1 d6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 220
+  },
+  {
+    "title": "Book Problem 221",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 a3 E5 d2 G1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 221
+  },
+  {
+    "title": "Book Problem 225",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 225
+  },
+  {
+    "title": "Book Problem 226",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 f1 F2 f3 F4 f5 C1 b1 B2 b3 B4 b5 D6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 226
+  },
+  {
+    "title": "Book Problem 227",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 E2 e3 E4 a1 A2 a3 E5 d2 G1 d3 C1 f1 A4 c2 C3 f2 F3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 227
+  },
+  {
+    "title": "Book Problem 229",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 d2 D3 d4 F1 e1 E2 e3 C2 e4 D5 e5 E6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 229
+  },
+  {
+    "title": "Book Problem 230",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 c1 C2 c3 C4 c5 G1 f1 F2 d4 F3 f4 D5 A1 a2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 230
+  },
+  {
+    "title": "Book Problem 231",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 G3 c2 C3 c4 C5 f5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 231
+  },
+  {
+    "title": "Book Problem 232",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 c1 G1 e2 C2 c3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 232
+  },
+  {
+    "title": "Book Problem 233",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 g1 G2 g3 C5 d2 A1 d3 E1 d4 D5 d6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 233
+  },
+  {
+    "title": "Book Problem 234",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 G3 c2 C3 c4 C5 d2 F5 a1 A2 b1 B2 b3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 234
+  },
+  {
+    "title": "Book Problem 235",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 E2 c4 G1 c5 a2 E3 e4 E5 e6 A3 a4 A5 b3 B4 a6 B5 b6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 235
+  },
+  {
+    "title": "Book Problem 236",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 D2 d3 C2 d4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 236
+  },
+  {
+    "title": "Book Problem 237",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 D4 d5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 237
+  },
+  {
+    "title": "Book Problem 238",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 F4 g2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 238
+  },
+  {
+    "title": "Book Problem 239",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 f4 F5 g2 C2 g3 G4 d5 C3 a1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 239
+  },
+  {
+    "title": "Book Problem 241",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 c2 F1 e1 F2 f3 E2 e3 D2 g2 D3 d4 E4 d5 C3 c4 C5 f4 E5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 241
+  },
+  {
+    "title": "Book Problem 242",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 D4 b4 E2 b5 B6 e3 G1 g2 D5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 242
+  },
+  {
+    "title": "Book Problem 243",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 e1 A1 c2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 243
+  },
+  {
+    "title": "Book Problem 244",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 b1 B2 b3 E1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 244
+  },
+  {
+    "title": "Book Problem 246",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 C1 e2 E3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 246
+  },
+  {
+    "title": "Book Problem 247",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 g1 G2 g3 E2 e3 B6 c1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 247
+  },
+  {
+    "title": "Book Problem 248",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 b3 E5 d6 B4 b5 G1 g2 C1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 248
+  },
+  {
+    "title": "Book Problem 249",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 a1 B2 b3 D2 d3 E2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 249
+  },
+  {
+    "title": "Book Problem 251",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 b1 F1 e1 E2 e3 E4 b2 E5 f2 G1 a1 A2 a3 A4 b3 B4 b5 G2 f3 G3 g4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 251
+  },
+  {
+    "title": "Book Problem 252",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 d2 D3 d4 B1 c1 C2 c3 E2 c4 D5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 252
+  },
+  {
+    "title": "Book Problem 253",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 E5 a1 G2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 253
+  },
+  {
+    "title": "Book Problem 254",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 d2 D3 d4 B3 d5 B4 b5 D6 f1 F2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 254
+  },
+  {
+    "title": "Book Problem 255",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 E4 a1 A2 a3 C1 c2 E5 d4 D5 g1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 255
+  },
+  {
+    "title": "Book Problem 256",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 c1 C2 c3 C4 e2 E3 e4 E5 d2 C5 d3 E6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 256
+  },
+  {
+    "title": "Book Problem 258",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 c1 F1 g1 C2 c3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 258
+  },
+  {
+    "title": "Book Problem 260",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 C2 g1 C3 c4 G2 c5 F3 f4 F5 B1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 260
+  },
+  {
+    "title": "Book Problem 262",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 e2 E3 e4 D2 d3 B1 c1 D4 b2 F1 f2 D5 e5 B3 c2 A2 a3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 262
+  },
+  {
+    "title": "Book Problem 263",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 b1 G1 e1 F2 d2 F3 f4 D3 d4 B2 d5 F5 a1 C2 b3 C3 c4 A2 c5 D6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 263
+  },
+  {
+    "title": "Book Problem 264",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 G1 e1 C2 f3 F4 e2 G2 c3 F5 g3 E3 e4 E5 d2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 264
+  },
+  {
+    "title": "Book Problem 266",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 f1 B1 c1 B2 b3 D2 d3 E1 d4 B4 e2 A1 a2 G1 d5 D6 g2 G3 g4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 266
+  },
+  {
+    "title": "Book Problem 267",
+    "level": "expert",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 c5 F3 f4 A1 a2 F5 e1 A3 a4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 267
+  },
+  {
+    "title": "Book Problem 268",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 g1 G2 g3 C5 d2 A1 d3 E1 b1 G4 e2 E3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 268
+  },
+  {
+    "title": "Book Problem 269",
+    "level": "expert",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 f1 F2 d2 D3 d4 F3 d5 F4 f5 B1 c1 B2 b3 D6 b4 B5 e1 F6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 269
+  },
+  {
+    "title": "Book Problem 271",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 f1 A1 c1 B2 d2 B3 b4 D3 d4 E2 e3 E4 c2 C3 f2 G1 d5 B5 c4 C5 e5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 271
+  },
+  {
+    "title": "Book Problem 272",
+    "level": "challenger",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 f2 G1 e1 E2 e3 E4 c2 F3 e5 D2 g2 D3 d4 A1 d5 C3 c4 C5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 272
+  },
+  {
+    "title": "Book Problem 275",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 e1 E2 e3 D4 d5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 275
+  },
+  {
+    "title": "Book Problem 277",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 g1 F2 f3 D2 d3 D4 c2 G2 c3 C4 c5 F4 d5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 277
+  },
+  {
+    "title": "Book Problem 278",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 C2 c3 C4 g1 G2 g3 C5 d2 A1 d3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 278
+  },
+  {
+    "title": "Book Problem 279",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 e1 E2 e3 E4 b1 B2 e5 D6 g1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 279
+  },
+  {
+    "title": "Book Problem 282",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 c6 E3 d2 D3 e4 E5 e6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 282
+  },
+  {
+    "title": "Book Problem 283",
+    "level": "challenger",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 b2 A1 c1 C2 c3 C4 e2 C5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 283
+  },
+  {
+    "title": "Book Problem 284",
+    "level": "challenger",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 f1 A1 c1 B2 d2 B3 b4 D3 d4 F2 d5 B5 g1 D6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 284
+  },
+  {
+    "title": "Book Problem 286",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 c2 C3 c4 F3 g2 F4 f5 C5 c6 A1 a2 E1 a3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 286
+  },
+  {
+    "title": "Book Problem 287",
+    "level": "challenger",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 c1 C2 c3 C4 f1 F2 f3 F4 D6 b1 A1 a2 E1 e2 A3 a4 B2 c5 A5 a6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 287
+  },
+  {
+    "title": "Book Problem 289",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 B1 f1 A1 c1 B2 d2 B3 b4 D3 d4 F2 d5 B5 g1 E2 f3 E3 e4 G2 e5 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 289
+  },
+  {
+    "title": "Book Problem 290",
+    "level": "challenger",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 e1 A1 b1 B2 e2 D2 e3 E4 a2 D3 d4 B3 a3 B4 b5 G1 d5 E5 b6 D6 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 290
+  },
+  {
+    "title": "Book Problem 292",
+    "level": "challenger",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 b1 F1 e1 F2 f3 D2 d3 C1 d4 c2 G1 g2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 292
+  },
+  {
+    "title": "Book Problem 293",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 f1 F2 d2 D3 d4 F3 d5 F4 f5 B1 c1 B2 b3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 293
+  },
+  {
+    "title": "Book Problem 294",
+    "level": "challenger",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 f1 F2 d2 D3 d4 F3 d5 F4 f5 D6 a1 A2 a3 C2 c3 e1 e2 E3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 294
+  },
+  {
+    "title": "Book Problem 296",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 G1 e1 C2 c3 E2 e3 E4 d2 D3 b1 C4 f1 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 296
+  },
+  {
+    "title": "Book Problem 297",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 f1 F2 d2 D3 d4 B1 c1 B2 b3 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 297
+  },
+  {
+    "title": "Book Problem 299",
+    "level": "challenger",
+    "description": "Yellow to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 c1 F1 G1 e1 E2 e3 E4 c2 E5 a1 C3 c4 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 299
+  },
+  {
+    "title": "Book Problem 300",
+    "level": "challenger",
+    "description": "Red to play. Imported from Chapter 2 problem set.",
+    "moves": "D1 d2 D3 d4 D5 d6 C1 b1 F1 e1 E2 e3 E4 b2 _",
+    "answer": "Solution text was not present in the provided chapter excerpt.",
+    "source": "The Complete Book of Connect 4, Chapter 2 problem set",
+    "sourceProblem": 300
   }
 ]

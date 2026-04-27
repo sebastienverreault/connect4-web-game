@@ -139,6 +139,17 @@ make validate-problems
 
 The validator checks that each move obeys Connect 4 gravity, so a token like `C2` is rejected unless row `C1` is already occupied.
 
+### Importing Book Problems
+
+If the local `book/` folder contains the recognized Chapter 1-2 PDF, import validated Chapter 2 practice problems with:
+
+```sh
+node scripts/import-book-problems.mjs
+make validate-problems
+```
+
+The importer reads OCR text from `book/Connect4-Ch01-02_recognized_1.pdf`, normalizes common OCR substitutions, and imports only records whose moves pass gravity validation. Ambiguous OCR records are skipped and reported in the command output.
+
 ## Project Layout
 
 - [src/lib.rs](src/lib.rs): Rust board logic, puzzle loading, win detection, and AI search.
