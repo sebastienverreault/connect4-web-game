@@ -13,6 +13,7 @@ const state = {
   aiStrength: 4,
   problems: [],
   problemIndex: 0,
+  selectedSetName: "",
   activeProblem: null,
   solutionVisible: false,
 };
@@ -22,10 +23,11 @@ const app = document.querySelector("#app");
 await init();
 state.game = new Connect4();
 state.problems = await fetch(`${import.meta.env.BASE_URL}problems_with_answers.json`).then((res) => res.json());
+state.selectedSetName = problemSetNames()[0] ?? "";
 render();
 
 function render() {
-  const currentProblem = state.problems[state.problemIndex] ?? state.problems[0];
+  const currentProblem = currentProblemList().find(({ index }) => index === state.problemIndex)?.problem ?? currentProblemList()[0]?.problem;
 
   app.innerHTML = `
     <main class="shell">
@@ -81,6 +83,12 @@ function render() {
         </div>
 
         <div class="practice ${state.mode === "practice" ? "" : "muted"}">
+          <div class="control-group">
+            <span class="label">Problem set</span>
+            <div class="set-list">
+              ${renderSetButtons()}
+            </div>
+          </div>
           <label class="select-row">
             <span>Position</span>
             <select data-problem-select ${state.mode === "practice" ? "" : "disabled"}>
@@ -144,6 +152,7 @@ function bindEvents() {
       state.solutionVisible = false;
       state.game.reset();
       if (state.mode === "practice") {
+        selectFirstProblemInSet();
         loadCurrentProblem();
       }
       render();
@@ -153,6 +162,16 @@ function bindEvents() {
   app.querySelectorAll("[data-setting]").forEach((input) => {
     input.addEventListener("input", () => {
       state[input.dataset.setting] = Number(input.value);
+      render();
+    });
+  });
+
+  app.querySelectorAll("[data-set-name]").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.selectedSetName = button.dataset.setName;
+      state.solutionVisible = false;
+      selectFirstProblemInSet();
+      loadCurrentProblem();
       render();
     });
   });
@@ -208,7 +227,7 @@ async function runAi() {
 }
 
 function loadCurrentProblem() {
-  const problem = state.problems[state.problemIndex];
+  const problem = state.problems[state.problemIndex] ?? currentProblemList()[0]?.problem;
   if (!problem) return;
   const error = state.game.load_moves(problem.moves);
   if (typeof error === "string" && error.length) {
@@ -235,20 +254,47 @@ function parseOutcome(value) {
 }
 
 function renderProblemOptions() {
-  const groups = new Map();
-  state.problems.forEach((problem, index) => {
-    const setName = problem.set_name ?? problem.setName ?? problem.level ?? "Practice Problems";
-    if (!groups.has(setName)) {
-      groups.set(setName, []);
-    }
-    groups.get(setName).push({ problem, index });
-  });
+  return currentProblemList()
+    .map(({ problem, index }) => `<option value="${index}" ${index === state.problemIndex ? "selected" : ""}>${escapeHtml(problem.title)}</option>`)
+    .join("");
+}
 
-  return [...groups.entries()].map(([setName, entries]) => `
-    <optgroup label="${escapeHtml(setName)}">
-      ${entries.map(({ problem, index }) => `<option value="${index}" ${index === state.problemIndex ? "selected" : ""}>${escapeHtml(problem.title)}</option>`).join("")}
-    </optgroup>
-  `).join("");
+function renderSetButtons() {
+  return problemSetNames()
+    .map((setName) => `<button data-set-name="${escapeHtml(setName)}" class="${setName === state.selectedSetName ? "active" : ""}" ${state.mode === "practice" ? "" : "disabled"}>${escapeHtml(setName)}</button>`)
+    .join("");
+}
+
+function currentProblemList() {
+  return state.problems
+    .map((problem, index) => ({ problem, index }))
+    .filter(({ problem }) => problemSetName(problem) === state.selectedSetName);
+}
+
+function selectFirstProblemInSet() {
+  state.problemIndex = currentProblemList()[0]?.index ?? 0;
+}
+
+function problemSetNames() {
+  return [...new Set(state.problems.map(problemSetName))].sort(compareProblemSetNames);
+}
+
+function problemSetName(problem) {
+  return problem.set_name ?? problem.setName ?? problem.level ?? "Practice Problems";
+}
+
+function compareProblemSetNames(a, b) {
+  return setDifficultyRank(a) - setDifficultyRank(b) || a.localeCompare(b, undefined, { numeric: true });
+}
+
+function setDifficultyRank(setName) {
+  const name = setName.toLowerCase();
+  if (name.includes("easy")) return 0;
+  if (name.includes("medium")) return 1;
+  if (name.includes("hard")) return 2;
+  if (name.includes("expert")) return 3;
+  if (name.includes("challenger")) return 4;
+  return 5;
 }
 
 function escapeHtml(value) {

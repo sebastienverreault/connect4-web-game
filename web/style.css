@@ -150,7 +150,7 @@ h2 {
 .reset-button,
 .problem-actions button,
 .segmented button,
-.level-list button {
+.set-list button {
   border: 2px solid var(--ink);
   background: var(--yellow);
   color: var(--ink);
@@ -295,7 +295,7 @@ label span {
 }
 
 .segmented,
-.level-list,
+.set-list,
 .problem-actions {
   display: grid;
   gap: 8px;
@@ -305,18 +305,18 @@ label span {
   grid-template-columns: repeat(3, 1fr);
 }
 
-.level-list {
-  grid-template-columns: repeat(2, 1fr);
+.set-list {
+  grid-template-columns: 1fr;
 }
 
 .segmented button,
-.level-list button,
+.set-list button,
 .problem-actions button {
   padding: 8px 9px;
 }
 
 .segmented button.active,
-.level-list button.active {
+.set-list button.active {
   background: var(--red);
   color: #fff;
 }
