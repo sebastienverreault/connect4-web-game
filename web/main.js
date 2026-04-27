@@ -59,6 +59,7 @@ function render() {
       <aside class="panel">
         <div class="panel-actions">
           <button class="reset-button" data-action="reset">New Game</button>
+          <button class="reset-button" data-action="undo" ${state.aiThinking || !state.game.can_undo() ? "disabled" : ""}>Undo</button>
         </div>
         <div class="control-group">
           <span class="label">Mode</span>
@@ -187,6 +188,13 @@ function bindEvents() {
     if (state.mode === "practice") {
       loadCurrentProblem();
     }
+    render();
+  });
+
+  app.querySelector("[data-action='undo']")?.addEventListener("click", () => {
+    if (state.aiThinking || !state.game.can_undo()) return;
+    state.solutionVisible = false;
+    state.game.undo_move();
     render();
   });
 

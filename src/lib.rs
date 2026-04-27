@@ -25,6 +25,8 @@ impl SearchDeadline {
 pub struct Connect4 {
     board: [u8; CELLS],
     move_numbers: [u8; CELLS],
+    history: Vec<(usize, usize, u8)>,
+    undo_floor: u8,
     current_player: u8,
     winner: u8,
     draw: bool,
@@ -49,6 +51,8 @@ impl Connect4 {
         Connect4 {
             board: [EMPTY; CELLS],
             move_numbers: [0; CELLS],
+            history: Vec::new(),
+            undo_floor: 0,
             current_player: RED,
             winner: EMPTY,
             draw: false,
@@ -59,6 +63,8 @@ impl Connect4 {
     pub fn reset(&mut self) {
         self.board = [EMPTY; CELLS];
         self.move_numbers = [0; CELLS];
+        self.history.clear();
+        self.undo_floor = 0;
         self.current_player = RED;
         self.winner = EMPTY;
         self.draw = false;
@@ -87,6 +93,54 @@ impl Connect4 {
 
     pub fn can_play(&self, col: usize) -> bool {
         col < COLS && self.winner == EMPTY && !self.draw && self.board[idx(ROWS - 1, col)] == EMPTY
+    }
+
+    pub fn can_undo(&self) -> bool {
+        self.move_count > self.undo_floor
+    }
+
+    pub fn undo_move(&mut self) -> JsValue {
+        if !self.can_undo() {
+            return to_js(MoveOutcome {
+                ok: false,
+                row: -1,
+                col: -1,
+                player: self.current_player,
+                winner: self.winner,
+                draw: self.draw,
+                message: "No move to undo.".to_string(),
+            });
+        }
+
+        match self.history.pop() {
+            Some((row, col, player)) => {
+                let cell = idx(row, col);
+                self.board[cell] = EMPTY;
+                self.move_numbers[cell] = 0;
+                self.move_count -= 1;
+                self.current_player = player;
+                self.winner = EMPTY;
+                self.draw = false;
+                to_js(MoveOutcome {
+                    ok: true,
+                    row: row as i32,
+                    col: col as i32,
+                    player,
+                    winner: self.winner,
+                    draw: self.draw,
+                    message: String::new(),
+                })
+            }
+            None => to_js(MoveOutcome {
+                ok: false,
+                row: -1,
+                col: -1,
+                player: self.current_player,
+                winner: self.winner,
+                draw: self.draw,
+                message: "Move history is empty.".to_string(),
+            }),
+        }
     }
 
     pub fn play_column(&mut self, col: usize) -> JsValue {
@@ -193,6 +247,7 @@ impl Connect4 {
                 self.current_player = if self.move_count % 2 == 0 { RED } else { BLACK };
             }
         }
+        self.undo_floor = self.move_count;
         JsValue::NULL
     }
 }
@@ -211,6 +266,7 @@ impl Connect4 {
                 self.board[cell] = player;
                 self.move_count += 1;
                 self.move_numbers[cell] = self.move_count;
+                self.history.push((row, col, player));
                 return Ok(row);
             }
         }
