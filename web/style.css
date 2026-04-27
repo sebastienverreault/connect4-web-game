@@ -241,16 +241,11 @@ h2 {
 }
 
 .disc em {
-  width: 45%;
-  height: 45%;
-  display: grid;
-  place-items: center;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.82);
   color: var(--ink);
   font-size: clamp(0.58rem, 1.35vw, 0.88rem);
   font-style: normal;
   font-weight: 900;
+  line-height: 1;
 }
 
 .panel {
